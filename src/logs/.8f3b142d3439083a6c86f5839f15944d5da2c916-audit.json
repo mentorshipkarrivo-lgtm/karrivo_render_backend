@@ -1,0 +1,55 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Users\\DELL\\OneDrive\\Desktop\\Karrivo.in\\karrivo_back_end\\src\\logs\\.8f3b142d3439083a6c86f5839f15944d5da2c916-audit.json",
+    "files": [
+        {
+            "date": 1768110416644,
+            "name": "C:\\Users\\DELL\\OneDrive\\Desktop\\Karrivo.in\\karrivo_back_end\\src\\logs\\jaimax-error-logs-2026-01-11.log",
+            "hash": "9ddac58d2a180aad69301e5fe16e3ceea32652ec7222ff86c8ce019cdfa162b3"
+        },
+        {
+            "date": 1768234158188,
+            "name": "C:\\Users\\DELL\\OneDrive\\Desktop\\Karrivo.in\\karrivo_back_end\\src\\logs\\jaimax-error-logs-2026-01-12.log",
+            "hash": "b6c08674b0a097c3c518b9d600aa36879c5018d211f67487fc5b3744c1b75804"
+        },
+        {
+            "date": 1768379498070,
+            "name": "C:\\Users\\DELL\\OneDrive\\Desktop\\Karrivo.in\\karrivo_back_end\\src\\logs\\jaimax-error-logs-2026-01-14.log",
+            "hash": "1d425bd1d09a05728ff3fcc3840c08325f33cec4fb684bc96c71bea84facc700"
+        },
+        {
+            "date": 1768464092584,
+            "name": "C:\\Users\\DELL\\OneDrive\\Desktop\\Karrivo.in\\karrivo_back_end\\src\\logs\\jaimax-error-logs-2026-01-15.log",
+            "hash": "c52d53c0cc75bcb14bc0082dbff282fe8326d4617fbe97c4431355742bc597aa"
+        },
+        {
+            "date": 1768566013927,
+            "name": "C:\\Users\\DELL\\OneDrive\\Desktop\\Karrivo.in\\karrivo_back_end\\src\\logs\\jaimax-error-logs-2026-01-16.log",
+            "hash": "6961acd91d86bfc25ad573d63a6e05448bf702f47f5433be56af3c55b3833d34"
+        },
+        {
+            "date": 1768628556417,
+            "name": "C:\\Users\\DELL\\OneDrive\\Desktop\\Karrivo.in\\karrivo_back_end\\src\\logs\\jaimax-error-logs-2026-01-17.log",
+            "hash": "93fc73491f5bb2c578ca4d02d10b3da021801d8c341f65691b7ba54c91c1c2c8"
+        },
+        {
+            "date": 1769099616093,
+            "name": "C:\\Users\\DELL\\OneDrive\\Desktop\\Karrivo.in\\karrivo_back_end\\src\\logs\\jaimax-error-logs-2026-01-22.log",
+            "hash": "37e3ad44c0e3bce1baf1fd6284eb6609212452a839b773033090a3406a48998e"
+        },
+        {
+            "date": 1769106753966,
+            "name": "C:\\Users\\DELL\\OneDrive\\Desktop\\Karrivo.in\\karrivo_back_end\\src\\logs\\jaimax-error-logs-2026-01-23.log",
+            "hash": "e8b7f42117759c6fc82f1476d336a621b8c6c2356ee2fd5cd20409e6f147cd6b"
+        },
+        {
+            "date": 1769271463640,
+            "name": "C:\\Users\\DELL\\OneDrive\\Desktop\\Karrivo.in\\karrivo_back_end\\src\\logs\\jaimax-error-logs-2026-01-24.log",
+            "hash": "5674631cb3b61435a74b10110a475f6bb1d7ecd5cf87a3815cb2a8b7f541b17e"
+        }
+    ],
+    "hashType": "sha256"
+}

@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Users\\Dell\\Desktop\\backend-firebase\\backend-firebase\\functions\\src\\logs\\.5214d355d8acc0f88a87e528eec83038ba85d1a4-audit.json",
+    "files": [
+        {
+            "date": 1771053551480,
+            "name": "C:\\Users\\Dell\\Desktop\\backend-firebase\\backend-firebase\\functions\\src\\logs\\jaimax-error-logs-2026-02-14.log",
+            "hash": "24090467f42dc69232ff6c14ea37e15c639e570d27655975d8b10acd64aaf321"
+        }
+    ],
+    "hashType": "sha256"
+}

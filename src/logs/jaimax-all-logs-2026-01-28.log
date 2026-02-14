@@ -1,0 +1,250 @@
+{"level":"info","message":"MongoDB Connected (development)","timestamp":"28/01/2026 08:28:12 pm"}
+{"level":"info","message":"App Start on 192.168.29.129:3002 🖐","timestamp":"28/01/2026 08:28:12 pm"}
+{"level":"info","message":"MongoDB Connected (development)","timestamp":"28/01/2026 08:53:51 pm"}
+{"level":"info","message":"App Start on 192.168.29.129:3002 🖐","timestamp":"28/01/2026 08:53:51 pm"}
+{"level":"info","message":{"method":"GET","path":"/topmentors?limit=4","responseTime":"192ms","statusCode":304,"timestampIST":"28/1/2026, 8:55:07 pm","userId":null},"timestamp":"28/01/2026 08:55:08 pm"}
+{"level":"info","message":{"method":"GET","path":"/search?q=Product+Managers","responseTime":"290ms","statusCode":200,"timestampIST":"28/1/2026, 8:55:20 pm","userId":null},"timestamp":"28/01/2026 08:55:20 pm"}
+{"level":"info","message":{"method":"GET","path":"/search?q=Product+Manager","responseTime":"135ms","statusCode":200,"timestampIST":"28/1/2026, 8:55:22 pm","userId":null},"timestamp":"28/01/2026 08:55:22 pm"}
+{"level":"warn","message":"404 - Route not found: GET /api/Admin/dashboard_details","timestamp":"28/01/2026 08:56:07 pm"}
+{"level":"error","message":{"method":"GET","path":"/api/Admin/dashboard_details","responseTime":"96ms","statusCode":404,"timestampIST":"28/1/2026, 8:56:07 pm","userId":null},"timestamp":"28/01/2026 08:56:07 pm"}
+{"level":"info","message":{"method":"GET","path":"/search?q=Product+Manager","responseTime":"1204ms","statusCode":304,"timestampIST":"28/1/2026, 8:56:07 pm","userId":null},"timestamp":"28/01/2026 08:56:08 pm"}
+{"level":"info","message":{"method":"GET","path":"/applications?undefined","responseTime":"1893ms","statusCode":200,"timestampIST":"28/1/2026, 8:56:07 pm","userId":null},"timestamp":"28/01/2026 08:56:09 pm"}
+{"level":"info","message":{"method":"GET","path":"/search?q=Product+Manager","responseTime":"32ms","statusCode":304,"timestampIST":"28/1/2026, 8:56:20 pm","userId":null},"timestamp":"28/01/2026 08:56:20 pm"}
+{"level":"info","message":{"method":"GET","path":"/search?q=Product+Manager","responseTime":"20ms","statusCode":304,"timestampIST":"28/1/2026, 8:56:31 pm","userId":null},"timestamp":"28/01/2026 08:56:31 pm"}
+{"level":"info","message":{"method":"GET","path":"/topmentors?limit=4","responseTime":"15ms","statusCode":304,"timestampIST":"28/1/2026, 8:56:34 pm","userId":null},"timestamp":"28/01/2026 08:56:34 pm"}
+{"level":"info","message":{"method":"GET","path":"/topmentors?limit=4","responseTime":"21ms","statusCode":304,"timestampIST":"28/1/2026, 8:56:36 pm","userId":null},"timestamp":"28/01/2026 08:56:36 pm"}
+{"level":"info","message":{"method":"GET","path":"/topmentors?limit=4","responseTime":"21ms","statusCode":200,"timestampIST":"28/1/2026, 8:56:45 pm","userId":null},"timestamp":"28/01/2026 08:56:45 pm"}
+{"level":"info","message":{"method":"GET","path":"/search?q=project","responseTime":"33ms","statusCode":200,"timestampIST":"28/1/2026, 8:56:55 pm","userId":null},"timestamp":"28/01/2026 08:56:56 pm"}
+{"level":"info","message":{"method":"GET","path":"/search?q=propject","responseTime":"32ms","statusCode":200,"timestampIST":"28/1/2026, 8:57:29 pm","userId":null},"timestamp":"28/01/2026 08:57:29 pm"}
+{"level":"info","message":{"method":"GET","path":"/search?q=project","responseTime":"20ms","statusCode":200,"timestampIST":"28/1/2026, 8:57:33 pm","userId":null},"timestamp":"28/01/2026 08:57:33 pm"}
+{"level":"info","message":{"method":"GET","path":"/search?q=project","responseTime":"74ms","statusCode":200,"timestampIST":"28/1/2026, 8:59:52 pm","userId":null},"timestamp":"28/01/2026 08:59:52 pm"}
+{"level":"info","message":{"method":"GET","path":"/topmentors?limit=4","responseTime":"24ms","statusCode":304,"timestampIST":"28/1/2026, 9:00:02 pm","userId":null},"timestamp":"28/01/2026 09:00:02 pm"}
+{"level":"info","message":{"method":"GET","path":"/topmentors?limit=4","responseTime":"8ms","statusCode":304,"timestampIST":"28/1/2026, 9:00:03 pm","userId":null},"timestamp":"28/01/2026 09:00:03 pm"}
+{"level":"warn","message":"404 - Route not found: GET /api/Admin/dashboard_details","timestamp":"28/01/2026 09:00:06 pm"}
+{"level":"error","message":{"method":"GET","path":"/api/Admin/dashboard_details","responseTime":"37ms","statusCode":404,"timestampIST":"28/1/2026, 9:00:06 pm","userId":null},"timestamp":"28/01/2026 09:00:06 pm"}
+{"level":"info","message":{"method":"GET","path":"/applications?undefined","responseTime":"201ms","statusCode":304,"timestampIST":"28/1/2026, 9:00:06 pm","userId":null},"timestamp":"28/01/2026 09:00:07 pm"}
+{"level":"info","message":{"method":"GET","path":"/user/6977a3c0e1747af961c3e8ee","responseTime":"286ms","statusCode":304,"timestampIST":"28/1/2026, 9:00:46 pm","userId":null},"timestamp":"28/01/2026 09:00:47 pm"}
+{"level":"info","message":{"method":"GET","path":"/mentor/697646499a784c09bc0d9687/sessions","responseTime":"181ms","statusCode":200,"timestampIST":"28/1/2026, 9:00:48 pm","userId":null},"timestamp":"28/01/2026 09:00:48 pm"}
+{"level":"info","message":{"method":"GET","path":"/get-tickets/697646499a784c09bc0d9687","responseTime":"127ms","statusCode":304,"timestampIST":"28/1/2026, 9:00:57 pm","userId":null},"timestamp":"28/01/2026 09:00:58 pm"}
+{"level":"info","message":{"method":"GET","path":"/get-all-tickets","responseTime":"16ms","statusCode":200,"timestampIST":"28/1/2026, 9:01:01 pm","userId":null},"timestamp":"28/01/2026 09:01:01 pm"}
+{"level":"info","message":{"method":"GET","path":"/applications?undefined","responseTime":"439ms","statusCode":304,"timestampIST":"28/1/2026, 9:04:30 pm","userId":null},"timestamp":"28/01/2026 09:04:31 pm"}
+{"level":"info","message":{"method":"GET","path":"/get-all-tickets","responseTime":"245ms","statusCode":304,"timestampIST":"28/1/2026, 9:04:30 pm","userId":null},"timestamp":"28/01/2026 09:04:31 pm"}
+{"level":"info","message":{"method":"GET","path":"/get-all-tickets","responseTime":"59ms","statusCode":304,"timestampIST":"28/1/2026, 9:07:54 pm","userId":null},"timestamp":"28/01/2026 09:07:54 pm"}
+{"level":"info","message":{"method":"GET","path":"/applications?undefined","responseTime":"121ms","statusCode":304,"timestampIST":"28/1/2026, 9:07:54 pm","userId":null},"timestamp":"28/01/2026 09:07:54 pm"}
+{"level":"info","message":{"method":"GET","path":"/get-session-bookings?limit=10&page=1&search=","responseTime":"150ms","statusCode":304,"timestampIST":"28/1/2026, 9:08:08 pm","userId":null},"timestamp":"28/01/2026 09:08:08 pm"}
+{"level":"warn","message":"404 - Route not found: GET /api/wallet/transactions-admin?limit=10&page=1&search=&transactionType=","timestamp":"28/01/2026 09:08:10 pm"}
+{"level":"error","message":{"method":"GET","path":"/api/wallet/transactions-admin?limit=10&page=1&search=&transactionType=","responseTime":"10ms","statusCode":404,"timestampIST":"28/1/2026, 9:08:10 pm","userId":null},"timestamp":"28/01/2026 09:08:10 pm"}
+{"level":"warn","message":"404 - Route not found: GET /api/wallet/transactions-admin?limit=10&page=1&search=&transactionType=","timestamp":"28/01/2026 09:08:12 pm"}
+{"level":"error","message":{"method":"GET","path":"/api/wallet/transactions-admin?limit=10&page=1&search=&transactionType=","responseTime":"2ms","statusCode":404,"timestampIST":"28/1/2026, 9:08:12 pm","userId":null},"timestamp":"28/01/2026 09:08:12 pm"}
+{"level":"info","message":{"method":"GET","path":"/get-all-tickets","responseTime":"40ms","statusCode":304,"timestampIST":"28/1/2026, 9:08:13 pm","userId":null},"timestamp":"28/01/2026 09:08:13 pm"}
+{"level":"info","message":{"method":"GET","path":"/get-all-tickets","responseTime":"57ms","statusCode":304,"timestampIST":"28/1/2026, 9:10:30 pm","userId":null},"timestamp":"28/01/2026 09:10:30 pm"}
+{"level":"info","message":{"method":"GET","path":"/get-all-tickets","responseTime":"346ms","statusCode":304,"timestampIST":"28/1/2026, 9:16:24 pm","userId":null},"timestamp":"28/01/2026 09:16:24 pm"}
+{"level":"info","message":{"method":"GET","path":"/applications?undefined","responseTime":"551ms","statusCode":304,"timestampIST":"28/1/2026, 9:16:24 pm","userId":null},"timestamp":"28/01/2026 09:16:24 pm"}
+{"level":"warn","message":"404 - Route not found: GET /api/Admin/AdminReport?limit=10&page=1&search=","timestamp":"28/01/2026 09:16:25 pm"}
+{"level":"error","message":{"method":"GET","path":"/api/Admin/AdminReport?limit=10&page=1&search=","responseTime":"9ms","statusCode":404,"timestampIST":"28/1/2026, 9:16:25 pm","userId":null},"timestamp":"28/01/2026 09:16:25 pm"}
+{"level":"info","message":{"method":"GET","path":"/applications?undefined","responseTime":"264ms","statusCode":304,"timestampIST":"28/1/2026, 9:16:48 pm","userId":null},"timestamp":"28/01/2026 09:16:49 pm"}
+{"level":"info","message":{"method":"GET","path":"/get-all-tickets","responseTime":"54ms","statusCode":304,"timestampIST":"28/1/2026, 9:16:49 pm","userId":null},"timestamp":"28/01/2026 09:16:49 pm"}
+{"level":"warn","message":"404 - Route not found: GET /api/Admin/AdminReport?limit=10&page=1&search=","timestamp":"28/01/2026 09:16:52 pm"}
+{"level":"error","message":{"method":"GET","path":"/api/Admin/AdminReport?limit=10&page=1&search=","responseTime":"5ms","statusCode":404,"timestampIST":"28/1/2026, 9:16:52 pm","userId":null},"timestamp":"28/01/2026 09:16:52 pm"}
+{"level":"info","message":{"method":"GET","path":"/get-session-bookings?limit=10&page=1&search=","responseTime":"166ms","statusCode":304,"timestampIST":"28/1/2026, 9:16:55 pm","userId":null},"timestamp":"28/01/2026 09:16:55 pm"}
+{"level":"info","message":{"method":"GET","path":"/applications?limit=10&page=1&search=","responseTime":"26ms","statusCode":200,"timestampIST":"28/1/2026, 9:16:57 pm","userId":null},"timestamp":"28/01/2026 09:16:57 pm"}
+{"level":"warn","message":"404 - Route not found: GET /api/Admin/dashboard_details","timestamp":"28/01/2026 09:16:58 pm"}
+{"level":"error","message":{"method":"GET","path":"/api/Admin/dashboard_details","responseTime":"4ms","statusCode":404,"timestampIST":"28/1/2026, 9:16:58 pm","userId":null},"timestamp":"28/01/2026 09:16:58 pm"}
+{"level":"info","message":{"method":"GET","path":"/applications?limit=10&page=1&search=","responseTime":"39ms","statusCode":304,"timestampIST":"28/1/2026, 9:17:00 pm","userId":null},"timestamp":"28/01/2026 09:17:00 pm"}
+{"level":"warn","message":"404 - Route not found: GET /api/Admin/AdminReport?limit=10&page=1&search=","timestamp":"28/01/2026 09:17:05 pm"}
+{"level":"error","message":{"method":"GET","path":"/api/Admin/AdminReport?limit=10&page=1&search=","responseTime":"13ms","statusCode":404,"timestampIST":"28/1/2026, 9:17:05 pm","userId":null},"timestamp":"28/01/2026 09:17:05 pm"}
+{"level":"warn","message":"404 - Route not found: GET /api/Admin/AdminReport?limit=10&page=1&search=","timestamp":"28/01/2026 09:17:18 pm"}
+{"level":"error","message":{"method":"GET","path":"/api/Admin/AdminReport?limit=10&page=1&search=","responseTime":"80ms","statusCode":404,"timestampIST":"28/1/2026, 9:17:18 pm","userId":null},"timestamp":"28/01/2026 09:17:18 pm"}
+{"level":"info","message":{"method":"GET","path":"/applications?undefined","responseTime":"836ms","statusCode":200,"timestampIST":"28/1/2026, 9:17:17 pm","userId":null},"timestamp":"28/01/2026 09:17:18 pm"}
+{"level":"info","message":"MongoDB Connected (development)","timestamp":"28/01/2026 09:19:29 pm"}
+{"level":"info","message":"App Start on 192.168.29.129:3002 🖐","timestamp":"28/01/2026 09:19:29 pm"}
+{"level":"warn","message":"404 - Route not found: GET /api/Admin/AdminReport?limit=10&page=1&search=","timestamp":"28/01/2026 09:21:50 pm"}
+{"level":"error","message":{"method":"GET","path":"/api/Admin/AdminReport?limit=10&page=1&search=","responseTime":"393ms","statusCode":404,"timestampIST":"28/1/2026, 9:21:50 pm","userId":null},"timestamp":"28/01/2026 09:21:51 pm"}
+{"level":"info","message":{"method":"GET","path":"/applications?undefined","responseTime":"1667ms","statusCode":200,"timestampIST":"28/1/2026, 9:21:50 pm","userId":null},"timestamp":"28/01/2026 09:21:51 pm"}
+{"level":"info","message":{"method":"GET","path":"/get-session-bookings?limit=10&page=1&search=","responseTime":"678ms","statusCode":200,"timestampIST":"28/1/2026, 9:22:18 pm","userId":null},"timestamp":"28/01/2026 09:22:19 pm"}
+{"level":"info","message":{"method":"GET","path":"/applications?undefined","responseTime":"83ms","statusCode":200,"timestampIST":"28/1/2026, 9:22:34 pm","userId":null},"timestamp":"28/01/2026 09:22:34 pm"}
+{"level":"info","message":{"method":"GET","path":"/get-session-bookings?limit=10&page=1&search=","responseTime":"97ms","statusCode":200,"timestampIST":"28/1/2026, 9:22:34 pm","userId":null},"timestamp":"28/01/2026 09:22:34 pm"}
+{"level":"info","message":{"method":"GET","path":"/applications?undefined","responseTime":"1278ms","statusCode":200,"timestampIST":"28/1/2026, 9:24:29 pm","userId":null},"timestamp":"28/01/2026 09:24:31 pm"}
+{"level":"info","message":{"method":"GET","path":"/get-session-bookings?limit=10&page=1&search=","responseTime":"811ms","statusCode":200,"timestampIST":"28/1/2026, 9:24:30 pm","userId":null},"timestamp":"28/01/2026 09:24:31 pm"}
+{"level":"warn","message":"404 - Route not found: GET /api/Admin/dashboard_details","timestamp":"28/01/2026 09:24:45 pm"}
+{"level":"error","message":{"method":"GET","path":"/api/Admin/dashboard_details","responseTime":"43ms","statusCode":404,"timestampIST":"28/1/2026, 9:24:45 pm","userId":null},"timestamp":"28/01/2026 09:24:45 pm"}
+{"level":"warn","message":"404 - Route not found: GET /api/Admin/dashboard_details","timestamp":"28/01/2026 09:24:48 pm"}
+{"level":"error","message":{"method":"GET","path":"/api/Admin/dashboard_details","responseTime":"8ms","statusCode":404,"timestampIST":"28/1/2026, 9:24:48 pm","userId":null},"timestamp":"28/01/2026 09:24:48 pm"}
+{"level":"info","message":{"method":"GET","path":"/applications?undefined","responseTime":"70ms","statusCode":304,"timestampIST":"28/1/2026, 9:24:48 pm","userId":null},"timestamp":"28/01/2026 09:24:48 pm"}
+{"level":"info","message":{"method":"GET","path":"/applications?limit=10&page=1&search=","responseTime":"19ms","statusCode":304,"timestampIST":"28/1/2026, 9:24:49 pm","userId":null},"timestamp":"28/01/2026 09:24:49 pm"}
+{"level":"info","message":{"method":"GET","path":"/get-session-bookings?limit=10&page=1&search=","responseTime":"73ms","statusCode":304,"timestampIST":"28/1/2026, 9:24:56 pm","userId":null},"timestamp":"28/01/2026 09:24:56 pm"}
+{"level":"info","message":{"method":"GET","path":"/applications?limit=10&page=1&search=","responseTime":"58ms","statusCode":304,"timestampIST":"28/1/2026, 9:25:02 pm","userId":null},"timestamp":"28/01/2026 09:25:02 pm"}
+{"level":"info","message":{"method":"GET","path":"/get-session-bookings?limit=10&page=1&search=","responseTime":"525ms","statusCode":304,"timestampIST":"28/1/2026, 9:27:50 pm","userId":null},"timestamp":"28/01/2026 09:27:50 pm"}
+{"level":"info","message":{"method":"GET","path":"/applications?undefined","responseTime":"832ms","statusCode":304,"timestampIST":"28/1/2026, 9:27:49 pm","userId":null},"timestamp":"28/01/2026 09:27:50 pm"}
+{"level":"info","message":{"method":"GET","path":"/applications?undefined","responseTime":"545ms","statusCode":304,"timestampIST":"28/1/2026, 9:28:46 pm","userId":null},"timestamp":"28/01/2026 09:28:47 pm"}
+{"level":"info","message":{"method":"GET","path":"/get-session-bookings?limit=10&page=1&search=","responseTime":"370ms","statusCode":304,"timestampIST":"28/1/2026, 9:28:46 pm","userId":null},"timestamp":"28/01/2026 09:28:47 pm"}
+{"level":"info","message":{"method":"GET","path":"/applications?undefined","responseTime":"583ms","statusCode":304,"timestampIST":"28/1/2026, 9:29:50 pm","userId":null},"timestamp":"28/01/2026 09:29:51 pm"}
+{"level":"info","message":{"method":"GET","path":"/get-session-bookings?limit=10&page=1&search=","responseTime":"392ms","statusCode":304,"timestampIST":"28/1/2026, 9:29:51 pm","userId":null},"timestamp":"28/01/2026 09:29:51 pm"}
+{"level":"warn","message":"404 - Route not found: GET /api/Admin/AdminReport?limit=10&page=1&search=","timestamp":"28/01/2026 09:29:54 pm"}
+{"level":"error","message":{"method":"GET","path":"/api/Admin/AdminReport?limit=10&page=1&search=","responseTime":"6ms","statusCode":404,"timestampIST":"28/1/2026, 9:29:54 pm","userId":null},"timestamp":"28/01/2026 09:29:54 pm"}
+{"level":"info","message":{"method":"GET","path":"/get-all-tickets","responseTime":"308ms","statusCode":304,"timestampIST":"28/1/2026, 9:30:14 pm","userId":null},"timestamp":"28/01/2026 09:30:14 pm"}
+{"level":"warn","message":"404 - Route not found: GET /api/Admin/AdminReport?limit=10&page=1&search=","timestamp":"28/01/2026 09:30:15 pm"}
+{"level":"error","message":{"method":"GET","path":"/api/Admin/AdminReport?limit=10&page=1&search=","responseTime":"12ms","statusCode":404,"timestampIST":"28/1/2026, 9:30:15 pm","userId":null},"timestamp":"28/01/2026 09:30:15 pm"}
+{"level":"info","message":{"method":"GET","path":"/applications?limit=10&page=1&search=","responseTime":"93ms","statusCode":304,"timestampIST":"28/1/2026, 9:30:19 pm","userId":null},"timestamp":"28/01/2026 09:30:20 pm"}
+{"level":"warn","message":"404 - Route not found: GET /api/Admin/dashboard_details","timestamp":"28/01/2026 09:30:21 pm"}
+{"level":"error","message":{"method":"GET","path":"/api/Admin/dashboard_details","responseTime":"3ms","statusCode":404,"timestampIST":"28/1/2026, 9:30:21 pm","userId":null},"timestamp":"28/01/2026 09:30:21 pm"}
+{"level":"warn","message":"404 - Route not found: GET /api/wallet/transactions-admin?limit=10&page=1&search=&transactionType=","timestamp":"28/01/2026 09:30:22 pm"}
+{"level":"error","message":{"method":"GET","path":"/api/wallet/transactions-admin?limit=10&page=1&search=&transactionType=","responseTime":"6ms","statusCode":404,"timestampIST":"28/1/2026, 9:30:22 pm","userId":null},"timestamp":"28/01/2026 09:30:22 pm"}
+{"level":"warn","message":"404 - Route not found: GET /api/wallet/transactions-admin?limit=10&page=1&search=&transactionType=","timestamp":"28/01/2026 09:30:36 pm"}
+{"level":"error","message":{"method":"GET","path":"/api/wallet/transactions-admin?limit=10&page=1&search=&transactionType=","responseTime":"28ms","statusCode":404,"timestampIST":"28/1/2026, 9:30:36 pm","userId":null},"timestamp":"28/01/2026 09:30:36 pm"}
+{"level":"info","message":{"method":"GET","path":"/applications?undefined","responseTime":"304ms","statusCode":304,"timestampIST":"28/1/2026, 9:30:35 pm","userId":null},"timestamp":"28/01/2026 09:30:36 pm"}
+{"level":"info","message":{"method":"GET","path":"/topmentors?limit=4","responseTime":"1200ms","statusCode":200,"timestampIST":"28/1/2026, 9:31:06 pm","userId":null},"timestamp":"28/01/2026 09:31:07 pm"}
+{"level":"info","message":{"method":"GET","path":"/user/6977a3c0e1747af961c3e8ee","responseTime":"259ms","statusCode":200,"timestampIST":"28/1/2026, 9:31:12 pm","userId":null},"timestamp":"28/01/2026 09:31:13 pm"}
+{"level":"info","message":{"method":"GET","path":"/mentor/697646499a784c09bc0d9687/sessions","responseTime":"240ms","statusCode":200,"timestampIST":"28/1/2026, 9:31:14 pm","userId":null},"timestamp":"28/01/2026 09:31:14 pm"}
+{"level":"info","message":{"method":"GET","path":"/get-tickets/697646499a784c09bc0d9687","responseTime":"54ms","statusCode":304,"timestampIST":"28/1/2026, 9:31:26 pm","userId":null},"timestamp":"28/01/2026 09:31:26 pm"}
+{"level":"info","message":{"method":"POST","path":"/get-mentor-details","responseTime":"142ms","statusCode":200,"timestampIST":"28/1/2026, 9:31:35 pm","userId":null},"timestamp":"28/01/2026 09:31:35 pm"}
+{"level":"info","message":{"method":"GET","path":"/topmentors?limit=4","responseTime":"74ms","statusCode":304,"timestampIST":"28/1/2026, 9:31:45 pm","userId":null},"timestamp":"28/01/2026 09:31:45 pm"}
+{"level":"error","message":{"method":"POST","path":"/login","responseTime":"322ms","statusCode":400,"timestampIST":"28/1/2026, 9:31:49 pm","userId":null},"timestamp":"28/01/2026 09:31:49 pm"}
+{"level":"info","message":{"method":"POST","path":"/login","responseTime":"900ms","statusCode":200,"timestampIST":"28/1/2026, 9:32:18 pm","userId":null},"timestamp":"28/01/2026 09:32:19 pm"}
+{"level":"error","message":{"method":"GET","path":"/details/KarrivoKarrivo0974KGAM5","responseTime":"80ms","statusCode":404,"timestampIST":"28/1/2026, 9:32:21 pm","userId":null},"timestamp":"28/01/2026 09:32:21 pm"}
+{"level":"info","message":{"method":"GET","path":"/upcoming","responseTime":"289ms","statusCode":200,"timestampIST":"28/1/2026, 9:32:42 pm","userId":"697685c8aa996ab09223ffdf"},"timestamp":"28/01/2026 09:32:42 pm"}
+{"level":"info","message":{"method":"GET","path":"/allmentors?","responseTime":"136ms","statusCode":200,"timestampIST":"28/1/2026, 9:32:43 pm","userId":null},"timestamp":"28/01/2026 09:32:43 pm"}
+{"level":"info","message":{"method":"POST","path":"/my-bookings","responseTime":"199ms","statusCode":200,"timestampIST":"28/1/2026, 9:32:45 pm","userId":null},"timestamp":"28/01/2026 09:32:45 pm"}
+{"level":"info","message":{"method":"GET","path":"/get-mentee-profile/KarrivoKarrivo0974KGAM5","responseTime":"19ms","statusCode":200,"timestampIST":"28/1/2026, 9:32:48 pm","userId":null},"timestamp":"28/01/2026 09:32:48 pm"}
+{"level":"info","message":{"method":"GET","path":"/get-tickets/Karrivo747IRNR","responseTime":"133ms","statusCode":200,"timestampIST":"28/1/2026, 9:32:50 pm","userId":null},"timestamp":"28/01/2026 09:32:50 pm"}
+{"level":"error","message":{"method":"GET","path":"/details/KarrivoKarrivo0974KGAM5","responseTime":"23ms","statusCode":404,"timestampIST":"28/1/2026, 9:32:53 pm","userId":null},"timestamp":"28/01/2026 09:32:53 pm"}
+{"level":"error","message":{"method":"GET","path":"/details/KarrivoKarrivo0974KGAM5","responseTime":"13ms","statusCode":404,"timestampIST":"28/1/2026, 9:32:59 pm","userId":null},"timestamp":"28/01/2026 09:32:59 pm"}
+{"level":"info","message":{"method":"GET","path":"/get-mentee-profile/KarrivoKarrivo0974KGAM5","responseTime":"263ms","statusCode":304,"timestampIST":"28/1/2026, 9:34:28 pm","userId":null},"timestamp":"28/01/2026 09:34:28 pm"}
+{"level":"info","message":{"method":"GET","path":"/get-tickets/Karrivo747IRNR","responseTime":"113ms","statusCode":304,"timestampIST":"28/1/2026, 9:34:28 pm","userId":null},"timestamp":"28/01/2026 09:34:28 pm"}
+{"level":"error","message":{"method":"GET","path":"/details/KarrivoKarrivo0974KGAM5","responseTime":"47ms","statusCode":404,"timestampIST":"28/1/2026, 9:34:30 pm","userId":null},"timestamp":"28/01/2026 09:34:30 pm"}
+{"level":"error","message":{"method":"GET","path":"/details/KarrivoKarrivo0974KGAM5","responseTime":"475ms","statusCode":404,"timestampIST":"28/1/2026, 9:36:02 pm","userId":null},"timestamp":"28/01/2026 09:36:02 pm"}
+{"level":"info","message":{"method":"GET","path":"/allmentors?","responseTime":"344ms","statusCode":200,"timestampIST":"28/1/2026, 9:36:17 pm","userId":null},"timestamp":"28/01/2026 09:36:18 pm"}
+{"level":"info","message":{"method":"GET","path":"/view/697646499a784c09bc0d9687","responseTime":"83ms","statusCode":200,"timestampIST":"28/1/2026, 9:36:19 pm","userId":null},"timestamp":"28/01/2026 09:36:20 pm"}
+{"level":"info","message":{"method":"GET","path":"/topmentors?limit=4","responseTime":"10ms","statusCode":304,"timestampIST":"28/1/2026, 9:36:26 pm","userId":null},"timestamp":"28/01/2026 09:36:26 pm"}
+{"level":"error","message":{"method":"GET","path":"/details/KarrivoKarrivo0974KGAM5","responseTime":"12ms","statusCode":404,"timestampIST":"28/1/2026, 9:36:28 pm","userId":null},"timestamp":"28/01/2026 09:36:28 pm"}
+{"level":"info","message":{"method":"GET","path":"/get-mentee-profile/KarrivoKarrivo0974KGAM5","responseTime":"14ms","statusCode":304,"timestampIST":"28/1/2026, 9:36:30 pm","userId":null},"timestamp":"28/01/2026 09:36:30 pm"}
+{"level":"info","message":{"method":"GET","path":"/applications?limit=10&page=1&search=","responseTime":"499ms","statusCode":304,"timestampIST":"28/1/2026, 9:38:07 pm","userId":null},"timestamp":"28/01/2026 09:38:07 pm"}
+{"level":"warn","message":"404 - Route not found: GET /api/Admin/dashboard_details","timestamp":"28/01/2026 09:38:08 pm"}
+{"level":"error","message":{"method":"GET","path":"/api/Admin/dashboard_details","responseTime":"23ms","statusCode":404,"timestampIST":"28/1/2026, 9:38:08 pm","userId":null},"timestamp":"28/01/2026 09:38:08 pm"}
+{"level":"info","message":{"method":"GET","path":"/applications?limit=10&page=1&search=","responseTime":"38ms","statusCode":304,"timestampIST":"28/1/2026, 9:38:10 pm","userId":null},"timestamp":"28/01/2026 09:38:10 pm"}
+{"level":"info","message":{"method":"GET","path":"/get-session-bookings?limit=10&page=1&search=","responseTime":"142ms","statusCode":304,"timestampIST":"28/1/2026, 9:38:11 pm","userId":null},"timestamp":"28/01/2026 09:38:11 pm"}
+{"level":"warn","message":"404 - Route not found: GET /api/Admin/AdminReport?limit=10&page=1&search=","timestamp":"28/01/2026 09:39:04 pm"}
+{"level":"error","message":{"method":"GET","path":"/api/Admin/AdminReport?limit=10&page=1&search=","responseTime":"367ms","statusCode":404,"timestampIST":"28/1/2026, 9:39:04 pm","userId":null},"timestamp":"28/01/2026 09:39:05 pm"}
+{"level":"info","message":{"method":"GET","path":"/get-all-tickets","responseTime":"706ms","statusCode":304,"timestampIST":"28/1/2026, 9:39:05 pm","userId":null},"timestamp":"28/01/2026 09:39:06 pm"}
+{"level":"info","message":{"method":"GET","path":"/applications?limit=10&page=1&search=","responseTime":"260ms","statusCode":304,"timestampIST":"28/1/2026, 9:39:08 pm","userId":null},"timestamp":"28/01/2026 09:39:09 pm"}
+{"level":"info","message":{"method":"GET","path":"/allmentors?","responseTime":"615ms","statusCode":304,"timestampIST":"28/1/2026, 9:40:30 pm","userId":null},"timestamp":"28/01/2026 09:40:31 pm"}
+{"level":"info","message":{"method":"GET","path":"/view/697646499a784c09bc0d9687","responseTime":"92ms","statusCode":304,"timestampIST":"28/1/2026, 9:40:34 pm","userId":null},"timestamp":"28/01/2026 09:40:34 pm"}
+{"level":"info","message":{"method":"GET","path":"/allmentors?","responseTime":"739ms","statusCode":304,"timestampIST":"28/1/2026, 9:41:29 pm","userId":null},"timestamp":"28/01/2026 09:41:30 pm"}
+{"level":"info","message":{"method":"GET","path":"/allmentors?","responseTime":"123ms","statusCode":304,"timestampIST":"28/1/2026, 9:41:44 pm","userId":null},"timestamp":"28/01/2026 09:41:44 pm"}
+{"level":"info","message":{"method":"GET","path":"/view/697646499a784c09bc0d9687","responseTime":"48ms","statusCode":304,"timestampIST":"28/1/2026, 9:41:45 pm","userId":null},"timestamp":"28/01/2026 09:41:45 pm"}
+{"level":"error","message":{"method":"GET","path":"/upcoming","responseTime":"105ms","statusCode":408,"timestampIST":"28/1/2026, 9:42:25 pm","userId":null},"timestamp":"28/01/2026 09:42:25 pm"}
+{"level":"error","message":{"method":"GET","path":"/upcoming","responseTime":"6ms","statusCode":408,"timestampIST":"28/1/2026, 9:42:26 pm","userId":null},"timestamp":"28/01/2026 09:42:26 pm"}
+{"level":"info","message":{"method":"GET","path":"/refreshToken","responseTime":"33ms","statusCode":200,"timestampIST":"28/1/2026, 9:42:26 pm","userId":null},"timestamp":"28/01/2026 09:42:26 pm"}
+{"level":"info","message":{"method":"GET","path":"/upcoming","responseTime":"108ms","statusCode":200,"timestampIST":"28/1/2026, 9:42:26 pm","userId":"697685c8aa996ab09223ffdf"},"timestamp":"28/01/2026 09:42:26 pm"}
+{"level":"info","message":{"method":"POST","path":"/my-bookings","responseTime":"168ms","statusCode":200,"timestampIST":"28/1/2026, 9:42:28 pm","userId":null},"timestamp":"28/01/2026 09:42:28 pm"}
+{"level":"info","message":{"method":"POST","path":"/my-bookings","responseTime":"697ms","statusCode":200,"timestampIST":"28/1/2026, 9:43:29 pm","userId":null},"timestamp":"28/01/2026 09:43:30 pm"}
+{"level":"info","message":{"method":"GET","path":"/get-mentee-profile/KarrivoKarrivo0974KGAM5","responseTime":"100ms","statusCode":304,"timestampIST":"28/1/2026, 9:43:32 pm","userId":null},"timestamp":"28/01/2026 09:43:32 pm"}
+{"level":"info","message":{"method":"GET","path":"/get-tickets/Karrivo747IRNR","responseTime":"81ms","statusCode":304,"timestampIST":"28/1/2026, 9:43:33 pm","userId":null},"timestamp":"28/01/2026 09:43:33 pm"}
+{"level":"info","message":{"method":"GET","path":"/upcoming","responseTime":"145ms","statusCode":304,"timestampIST":"28/1/2026, 9:43:35 pm","userId":"697685c8aa996ab09223ffdf"},"timestamp":"28/01/2026 09:43:35 pm"}
+{"level":"info","message":{"method":"POST","path":"/my-bookings","responseTime":"1272ms","statusCode":200,"timestampIST":"28/1/2026, 10:07:39 pm","userId":null},"timestamp":"28/01/2026 10:07:41 pm"}
+{"level":"info","message":{"method":"GET","path":"/allmentors?","responseTime":"838ms","statusCode":304,"timestampIST":"28/1/2026, 10:08:10 pm","userId":null},"timestamp":"28/01/2026 10:08:11 pm"}
+{"level":"error","message":{"method":"GET","path":"/details/KarrivoKarrivo0974KGAM5","responseTime":"72ms","statusCode":404,"timestampIST":"28/1/2026, 10:08:11 pm","userId":null},"timestamp":"28/01/2026 10:08:11 pm"}
+{"level":"error","message":{"method":"GET","path":"/details/KarrivoKarrivo0974KGAM5","responseTime":"9ms","statusCode":404,"timestampIST":"28/1/2026, 10:08:16 pm","userId":null},"timestamp":"28/01/2026 10:08:16 pm"}
+{"level":"error","message":{"method":"POST","path":"/login","responseTime":"499ms","statusCode":400,"timestampIST":"28/1/2026, 10:10:50 pm","userId":null},"timestamp":"28/01/2026 10:10:50 pm"}
+{"level":"info","message":{"method":"POST","path":"/login","responseTime":"996ms","statusCode":200,"timestampIST":"28/1/2026, 10:11:06 pm","userId":null},"timestamp":"28/01/2026 10:11:07 pm"}
+{"level":"error","message":{"method":"GET","path":"/details/KarrivoKarrivo0974KGAM5","responseTime":"53ms","statusCode":404,"timestampIST":"28/1/2026, 10:11:08 pm","userId":null},"timestamp":"28/01/2026 10:11:08 pm"}
+{"level":"info","message":{"method":"GET","path":"/allmentors?","responseTime":"505ms","statusCode":304,"timestampIST":"28/1/2026, 10:11:10 pm","userId":null},"timestamp":"28/01/2026 10:11:11 pm"}
+{"level":"error","message":{"method":"GET","path":"/details/KarrivoKarrivo0974KGAM5","responseTime":"42ms","statusCode":404,"timestampIST":"28/1/2026, 10:11:15 pm","userId":null},"timestamp":"28/01/2026 10:11:15 pm"}
+{"level":"info","message":{"method":"GET","path":"/view/697646499a784c09bc0d9687","responseTime":"31ms","statusCode":304,"timestampIST":"28/1/2026, 10:11:18 pm","userId":null},"timestamp":"28/01/2026 10:11:18 pm"}
+{"level":"info","message":{"method":"POST","path":"/check-free-session","responseTime":"32ms","statusCode":200,"timestampIST":"28/1/2026, 10:11:20 pm","userId":null},"timestamp":"28/01/2026 10:11:20 pm"}
+{"level":"info","message":{"method":"GET","path":"/allmentors?","responseTime":"728ms","statusCode":304,"timestampIST":"28/1/2026, 10:12:31 pm","userId":null},"timestamp":"28/01/2026 10:12:32 pm"}
+{"level":"info","message":{"method":"GET","path":"/upcoming","responseTime":"252ms","statusCode":304,"timestampIST":"28/1/2026, 10:12:34 pm","userId":"697685c8aa996ab09223ffdf"},"timestamp":"28/01/2026 10:12:34 pm"}
+{"level":"info","message":{"method":"POST","path":"/my-bookings","responseTime":"132ms","statusCode":200,"timestampIST":"28/1/2026, 10:12:35 pm","userId":null},"timestamp":"28/01/2026 10:12:36 pm"}
+{"level":"info","message":{"method":"GET","path":"/get-mentee-profile/KarrivoKarrivo0974KGAM5","responseTime":"32ms","statusCode":304,"timestampIST":"28/1/2026, 10:12:36 pm","userId":null},"timestamp":"28/01/2026 10:12:37 pm"}
+{"level":"info","message":{"method":"GET","path":"/get-tickets/Karrivo747IRNR","responseTime":"37ms","statusCode":304,"timestampIST":"28/1/2026, 10:12:38 pm","userId":null},"timestamp":"28/01/2026 10:12:38 pm"}
+{"level":"info","message":"MongoDB Connected (development)","timestamp":"28/01/2026 10:20:20 pm"}
+{"level":"info","message":"App Start on 192.168.29.129:3002 🖐","timestamp":"28/01/2026 10:20:20 pm"}
+{"level":"info","message":"MongoDB Connected (development)","timestamp":"28/01/2026 10:21:19 pm"}
+{"level":"info","message":"App Start on 192.168.29.129:3002 🖐","timestamp":"28/01/2026 10:21:20 pm"}
+{"level":"info","message":"MongoDB Connected (development)","timestamp":"28/01/2026 10:21:43 pm"}
+{"level":"info","message":"App Start on 192.168.29.129:3002 🖐","timestamp":"28/01/2026 10:21:43 pm"}
+{"level":"info","message":"MongoDB Connected (development)","timestamp":"28/01/2026 10:21:52 pm"}
+{"level":"info","message":"App Start on 192.168.29.129:3002 🖐","timestamp":"28/01/2026 10:21:52 pm"}
+{"level":"info","message":"MongoDB Connected (development)","timestamp":"28/01/2026 10:22:01 pm"}
+{"level":"info","message":"App Start on 192.168.29.129:3002 🖐","timestamp":"28/01/2026 10:22:01 pm"}
+{"level":"info","message":"MongoDB Connected (development)","timestamp":"28/01/2026 10:23:04 pm"}
+{"level":"info","message":"App Start on 192.168.29.129:3002 🖐","timestamp":"28/01/2026 10:23:04 pm"}
+{"level":"info","message":"MongoDB Connected (development)","timestamp":"28/01/2026 10:23:33 pm"}
+{"level":"info","message":"App Start on 192.168.29.129:3002 🖐","timestamp":"28/01/2026 10:23:33 pm"}
+{"level":"info","message":"MongoDB Connected (development)","timestamp":"28/01/2026 10:25:15 pm"}
+{"level":"info","message":"App Start on 192.168.29.129:3002 🖐","timestamp":"28/01/2026 10:25:15 pm"}
+{"level":"info","message":"MongoDB Connected (development)","timestamp":"28/01/2026 10:26:49 pm"}
+{"level":"info","message":"App Start on 192.168.29.129:3002 🖐","timestamp":"28/01/2026 10:26:49 pm"}
+{"level":"info","message":"MongoDB Connected (development)","timestamp":"28/01/2026 10:27:23 pm"}
+{"level":"info","message":"App Start on 192.168.29.129:3002 🖐","timestamp":"28/01/2026 10:27:23 pm"}
+{"level":"info","message":"MongoDB Connected (development)","timestamp":"28/01/2026 10:27:45 pm"}
+{"level":"info","message":"App Start on 192.168.29.129:3002 🖐","timestamp":"28/01/2026 10:27:45 pm"}
+{"level":"info","message":"MongoDB Connected (development)","timestamp":"28/01/2026 10:28:06 pm"}
+{"level":"info","message":"App Start on 192.168.29.129:3002 🖐","timestamp":"28/01/2026 10:28:06 pm"}
+{"level":"info","message":{"method":"GET","path":"/get-session-bookings?limit=10&page=1&search=","responseTime":"349ms","statusCode":304,"timestampIST":"28/1/2026, 10:28:55 pm","userId":null},"timestamp":"28/01/2026 10:28:55 pm"}
+{"level":"warn","message":"404 - Route not found: GET /api/Admin/AdminReport?limit=10&page=1&search=","timestamp":"28/01/2026 10:28:57 pm"}
+{"level":"error","message":{"method":"GET","path":"/api/Admin/AdminReport?limit=10&page=1&search=","responseTime":"22ms","statusCode":404,"timestampIST":"28/1/2026, 10:28:57 pm","userId":null},"timestamp":"28/01/2026 10:28:57 pm"}
+{"level":"info","message":{"method":"GET","path":"/get-all-tickets","responseTime":"26ms","statusCode":304,"timestampIST":"28/1/2026, 10:28:59 pm","userId":null},"timestamp":"28/01/2026 10:28:59 pm"}
+{"level":"error","message":{"method":"GET","path":"/details/KarrivoKarrivo0974KGAM5","responseTime":"34ms","statusCode":404,"timestampIST":"28/1/2026, 10:30:16 pm","userId":null},"timestamp":"28/01/2026 10:30:16 pm"}
+{"level":"error","message":{"method":"GET","path":"/details/KarrivoKarrivo0974KGAM5","responseTime":"370ms","statusCode":404,"timestampIST":"28/1/2026, 10:32:08 pm","userId":null},"timestamp":"28/01/2026 10:32:08 pm"}
+{"level":"error","message":{"method":"GET","path":"/details/KarrivoKarrivo0974KGAM5","responseTime":"90ms","statusCode":404,"timestampIST":"28/1/2026, 10:32:17 pm","userId":null},"timestamp":"28/01/2026 10:32:17 pm"}
+{"level":"info","message":{"method":"GET","path":"/get-mentee-profile/KarrivoKarrivo0974KGAM5","responseTime":"360ms","statusCode":200,"timestampIST":"28/1/2026, 10:33:02 pm","userId":null},"timestamp":"28/01/2026 10:33:02 pm"}
+{"level":"info","message":{"method":"POST","path":"/save-profile","responseTime":"1133ms","statusCode":200,"timestampIST":"28/1/2026, 10:33:10 pm","userId":null},"timestamp":"28/01/2026 10:33:11 pm"}
+{"level":"info","message":{"method":"GET","path":"/get-mentee-profile/KarrivoKarrivo0974KGAM5","responseTime":"19ms","statusCode":200,"timestampIST":"28/1/2026, 10:33:11 pm","userId":null},"timestamp":"28/01/2026 10:33:11 pm"}
+{"level":"info","message":{"method":"POST","path":"/save-profile","responseTime":"51ms","statusCode":200,"timestampIST":"28/1/2026, 10:33:30 pm","userId":null},"timestamp":"28/01/2026 10:33:30 pm"}
+{"level":"info","message":{"method":"GET","path":"/get-mentee-profile/KarrivoKarrivo0974KGAM5","responseTime":"15ms","statusCode":200,"timestampIST":"28/1/2026, 10:33:30 pm","userId":null},"timestamp":"28/01/2026 10:33:30 pm"}
+{"level":"info","message":{"method":"GET","path":"/details/KarrivoKarrivo0974KGAM5","responseTime":"81ms","statusCode":200,"timestampIST":"28/1/2026, 10:33:35 pm","userId":null},"timestamp":"28/01/2026 10:33:35 pm"}
+{"level":"info","message":{"method":"GET","path":"/details/KarrivoKarrivo0974KGAM5","responseTime":"170ms","statusCode":304,"timestampIST":"28/1/2026, 10:34:12 pm","userId":null},"timestamp":"28/01/2026 10:34:13 pm"}
+{"level":"info","message":{"method":"GET","path":"/details/KarrivoKarrivo0974KGAM5","responseTime":"164ms","statusCode":200,"timestampIST":"28/1/2026, 10:34:39 pm","userId":null},"timestamp":"28/01/2026 10:34:39 pm"}
+{"level":"info","message":{"method":"GET","path":"/details/KarrivoKarrivo0974KGAM5","responseTime":"363ms","statusCode":200,"timestampIST":"28/1/2026, 10:36:35 pm","userId":null},"timestamp":"28/01/2026 10:36:35 pm"}
+{"level":"info","message":{"method":"GET","path":"/details/KarrivoKarrivo0974KGAM5","responseTime":"217ms","statusCode":304,"timestampIST":"28/1/2026, 10:37:29 pm","userId":null},"timestamp":"28/01/2026 10:37:29 pm"}
+{"level":"info","message":{"method":"GET","path":"/allmentors?","responseTime":"536ms","statusCode":304,"timestampIST":"28/1/2026, 10:38:13 pm","userId":null},"timestamp":"28/01/2026 10:38:13 pm"}
+{"level":"error","message":{"method":"GET","path":"/upcoming","responseTime":"156ms","statusCode":408,"timestampIST":"28/1/2026, 10:38:17 pm","userId":null},"timestamp":"28/01/2026 10:38:18 pm"}
+{"level":"error","message":{"method":"GET","path":"/upcoming","responseTime":"9ms","statusCode":408,"timestampIST":"28/1/2026, 10:38:18 pm","userId":null},"timestamp":"28/01/2026 10:38:18 pm"}
+{"level":"info","message":{"method":"GET","path":"/refreshToken","responseTime":"37ms","statusCode":200,"timestampIST":"28/1/2026, 10:38:18 pm","userId":null},"timestamp":"28/01/2026 10:38:18 pm"}
+{"level":"info","message":{"method":"GET","path":"/upcoming","responseTime":"104ms","statusCode":200,"timestampIST":"28/1/2026, 10:38:18 pm","userId":"697685c8aa996ab09223ffdf"},"timestamp":"28/01/2026 10:38:18 pm"}
+{"level":"info","message":{"method":"POST","path":"/my-bookings","responseTime":"119ms","statusCode":200,"timestampIST":"28/1/2026, 10:38:20 pm","userId":null},"timestamp":"28/01/2026 10:38:20 pm"}
+{"level":"info","message":{"method":"GET","path":"/get-mentee-profile/KarrivoKarrivo0974KGAM5","responseTime":"27ms","statusCode":304,"timestampIST":"28/1/2026, 10:38:33 pm","userId":null},"timestamp":"28/01/2026 10:38:33 pm"}
+{"level":"info","message":{"method":"POST","path":"/my-bookings","responseTime":"318ms","statusCode":200,"timestampIST":"28/1/2026, 10:40:02 pm","userId":null},"timestamp":"28/01/2026 10:40:03 pm"}
+{"level":"info","message":{"method":"GET","path":"/view/697646499a784c09bc0d9687","responseTime":"113ms","statusCode":304,"timestampIST":"28/1/2026, 10:40:45 pm","userId":null},"timestamp":"28/01/2026 10:40:45 pm"}
+{"level":"info","message":{"method":"GET","path":"/upcoming","responseTime":"117ms","statusCode":304,"timestampIST":"28/1/2026, 10:40:58 pm","userId":"697685c8aa996ab09223ffdf"},"timestamp":"28/01/2026 10:40:58 pm"}
+{"level":"info","message":{"method":"GET","path":"/get-mentee-profile/KarrivoKarrivo0974KGAM5","responseTime":"24ms","statusCode":304,"timestampIST":"28/1/2026, 10:40:59 pm","userId":null},"timestamp":"28/01/2026 10:40:59 pm"}
+{"level":"info","message":{"method":"GET","path":"/get-tickets/Karrivo747IRNR","responseTime":"38ms","statusCode":304,"timestampIST":"28/1/2026, 10:41:01 pm","userId":null},"timestamp":"28/01/2026 10:41:01 pm"}
+{"level":"info","message":{"method":"GET","path":"/details/KarrivoKarrivo0974KGAM5","responseTime":"46ms","statusCode":304,"timestampIST":"28/1/2026, 10:41:11 pm","userId":null},"timestamp":"28/01/2026 10:41:11 pm"}
+{"level":"info","message":{"method":"GET","path":"/topmentors?limit=4","responseTime":"11ms","statusCode":304,"timestampIST":"28/1/2026, 10:41:25 pm","userId":null},"timestamp":"28/01/2026 10:41:25 pm"}
+{"level":"info","message":{"method":"GET","path":"/topmentors?limit=4","responseTime":"530ms","statusCode":304,"timestampIST":"28/1/2026, 10:43:05 pm","userId":null},"timestamp":"28/01/2026 10:43:05 pm"}
+{"level":"info","message":{"method":"GET","path":"/topmentors?limit=4","responseTime":"146ms","statusCode":304,"timestampIST":"28/1/2026, 10:43:38 pm","userId":null},"timestamp":"28/01/2026 10:43:38 pm"}
+{"level":"info","message":{"method":"GET","path":"/topmentors?limit=4","responseTime":"16ms","statusCode":304,"timestampIST":"28/1/2026, 10:43:41 pm","userId":null},"timestamp":"28/01/2026 10:43:41 pm"}
+{"level":"info","message":{"method":"GET","path":"/topmentors?limit=4","responseTime":"10ms","statusCode":304,"timestampIST":"28/1/2026, 10:43:59 pm","userId":null},"timestamp":"28/01/2026 10:43:59 pm"}
+{"level":"info","message":{"method":"GET","path":"/topmentors?limit=4","responseTime":"25ms","statusCode":304,"timestampIST":"28/1/2026, 10:44:14 pm","userId":null},"timestamp":"28/01/2026 10:44:14 pm"}
+{"level":"info","message":{"method":"GET","path":"/topmentors?limit=4","responseTime":"949ms","statusCode":304,"timestampIST":"28/1/2026, 10:47:24 pm","userId":null},"timestamp":"28/01/2026 10:47:25 pm"}
+{"level":"info","message":{"method":"GET","path":"/topmentors?limit=4","responseTime":"482ms","statusCode":304,"timestampIST":"28/1/2026, 10:48:59 pm","userId":null},"timestamp":"28/01/2026 10:49:00 pm"}
+{"level":"info","message":{"method":"POST","path":"/login","responseTime":"1184ms","statusCode":200,"timestampIST":"28/1/2026, 10:49:35 pm","userId":null},"timestamp":"28/01/2026 10:49:36 pm"}
+{"level":"info","message":{"method":"GET","path":"/details/KarrivoKarrivo0974KGAM5","responseTime":"54ms","statusCode":304,"timestampIST":"28/1/2026, 10:49:38 pm","userId":null},"timestamp":"28/01/2026 10:49:38 pm"}
+{"level":"info","message":{"method":"GET","path":"/get-mentee-profile/KarrivoKarrivo0974KGAM5","responseTime":"24ms","statusCode":304,"timestampIST":"28/1/2026, 10:49:41 pm","userId":null},"timestamp":"28/01/2026 10:49:41 pm"}
+{"level":"info","message":{"method":"POST","path":"/save-profile","responseTime":"77ms","statusCode":200,"timestampIST":"28/1/2026, 10:50:12 pm","userId":null},"timestamp":"28/01/2026 10:50:12 pm"}
+{"level":"info","message":{"method":"GET","path":"/get-mentee-profile/KarrivoKarrivo0974KGAM5","responseTime":"14ms","statusCode":200,"timestampIST":"28/1/2026, 10:50:12 pm","userId":null},"timestamp":"28/01/2026 10:50:12 pm"}
+{"level":"info","message":{"method":"GET","path":"/details/KarrivoKarrivo0974KGAM5","responseTime":"50ms","statusCode":304,"timestampIST":"28/1/2026, 10:50:20 pm","userId":null},"timestamp":"28/01/2026 10:50:20 pm"}
+{"level":"info","message":{"method":"GET","path":"/allmentors?","responseTime":"183ms","statusCode":304,"timestampIST":"28/1/2026, 10:50:24 pm","userId":null},"timestamp":"28/01/2026 10:50:24 pm"}
+{"level":"info","message":{"method":"GET","path":"/upcoming","responseTime":"50ms","statusCode":304,"timestampIST":"28/1/2026, 10:50:25 pm","userId":"697685c8aa996ab09223ffdf"},"timestamp":"28/01/2026 10:50:25 pm"}
+{"level":"info","message":{"method":"POST","path":"/my-bookings","responseTime":"81ms","statusCode":200,"timestampIST":"28/1/2026, 10:50:26 pm","userId":null},"timestamp":"28/01/2026 10:50:26 pm"}
+{"level":"info","message":{"method":"GET","path":"/get-mentee-profile/KarrivoKarrivo0974KGAM5","responseTime":"22ms","statusCode":304,"timestampIST":"28/1/2026, 10:50:27 pm","userId":null},"timestamp":"28/01/2026 10:50:27 pm"}
+{"level":"info","message":{"method":"GET","path":"/get-tickets/Karrivo747IRNR","responseTime":"17ms","statusCode":304,"timestampIST":"28/1/2026, 10:50:28 pm","userId":null},"timestamp":"28/01/2026 10:50:28 pm"}
+{"level":"info","message":{"method":"POST","path":"/my-bookings","responseTime":"1443ms","statusCode":200,"timestampIST":"28/1/2026, 10:54:06 pm","userId":null},"timestamp":"28/01/2026 10:54:07 pm"}
+{"level":"info","message":{"method":"GET","path":"/get-mentee-profile/KarrivoKarrivo0974KGAM5","responseTime":"30ms","statusCode":304,"timestampIST":"28/1/2026, 10:54:12 pm","userId":null},"timestamp":"28/01/2026 10:54:12 pm"}
+{"level":"info","message":{"method":"GET","path":"/upcoming","responseTime":"443ms","statusCode":304,"timestampIST":"28/1/2026, 10:56:58 pm","userId":"697685c8aa996ab09223ffdf"},"timestamp":"28/01/2026 10:56:58 pm"}
+{"level":"info","message":{"method":"POST","path":"/my-bookings","responseTime":"49ms","statusCode":200,"timestampIST":"28/1/2026, 10:57:00 pm","userId":null},"timestamp":"28/01/2026 10:57:00 pm"}
+{"level":"info","message":{"method":"GET","path":"/upcoming","responseTime":"32ms","statusCode":304,"timestampIST":"28/1/2026, 10:57:03 pm","userId":"697685c8aa996ab09223ffdf"},"timestamp":"28/01/2026 10:57:03 pm"}
+{"level":"info","message":{"method":"GET","path":"/allmentors?","responseTime":"169ms","statusCode":304,"timestampIST":"28/1/2026, 10:57:04 pm","userId":null},"timestamp":"28/01/2026 10:57:04 pm"}
+{"level":"info","message":{"method":"GET","path":"/get-mentee-profile/KarrivoKarrivo0974KGAM5","responseTime":"53ms","statusCode":304,"timestampIST":"28/1/2026, 10:57:19 pm","userId":null},"timestamp":"28/01/2026 10:57:19 pm"}
+{"level":"info","message":{"method":"GET","path":"/get-tickets/Karrivo747IRNR","responseTime":"43ms","statusCode":304,"timestampIST":"28/1/2026, 10:57:21 pm","userId":null},"timestamp":"28/01/2026 10:57:21 pm"}
+{"level":"info","message":{"method":"GET","path":"/get-mentee-profile/KarrivoKarrivo0974KGAM5","responseTime":"367ms","statusCode":304,"timestampIST":"28/1/2026, 11:00:20 pm","userId":null},"timestamp":"28/01/2026 11:00:21 pm"}
+{"level":"error","message":{"method":"GET","path":"/upcoming","responseTime":"152ms","statusCode":408,"timestampIST":"28/1/2026, 11:00:30 pm","userId":null},"timestamp":"28/01/2026 11:00:30 pm"}
+{"level":"error","message":{"method":"GET","path":"/upcoming","responseTime":"8ms","statusCode":408,"timestampIST":"28/1/2026, 11:00:30 pm","userId":null},"timestamp":"28/01/2026 11:00:30 pm"}
+{"level":"info","message":{"method":"GET","path":"/refreshToken","responseTime":"61ms","statusCode":200,"timestampIST":"28/1/2026, 11:00:30 pm","userId":null},"timestamp":"28/01/2026 11:00:30 pm"}
+{"level":"info","message":{"method":"GET","path":"/upcoming","responseTime":"202ms","statusCode":200,"timestampIST":"28/1/2026, 11:00:30 pm","userId":"697685c8aa996ab09223ffdf"},"timestamp":"28/01/2026 11:00:30 pm"}
+{"level":"info","message":{"method":"POST","path":"/my-bookings","responseTime":"183ms","statusCode":200,"timestampIST":"28/1/2026, 11:00:31 pm","userId":null},"timestamp":"28/01/2026 11:00:31 pm"}
+{"level":"info","message":{"method":"GET","path":"/get-mentee-profile/KarrivoKarrivo0974KGAM5","responseTime":"230ms","statusCode":304,"timestampIST":"28/1/2026, 11:05:35 pm","userId":null},"timestamp":"28/01/2026 11:05:35 pm"}
+{"level":"info","message":{"method":"GET","path":"/get-tickets/Karrivo747IRNR","responseTime":"70ms","statusCode":304,"timestampIST":"28/1/2026, 11:05:36 pm","userId":null},"timestamp":"28/01/2026 11:05:36 pm"}
+{"level":"info","message":{"method":"GET","path":"/allmentors?","responseTime":"248ms","statusCode":304,"timestampIST":"28/1/2026, 11:05:38 pm","userId":null},"timestamp":"28/01/2026 11:05:38 pm"}
+{"level":"info","message":{"method":"GET","path":"/details/KarrivoKarrivo0974KGAM5","responseTime":"63ms","statusCode":304,"timestampIST":"28/1/2026, 11:05:39 pm","userId":null},"timestamp":"28/01/2026 11:05:39 pm"}

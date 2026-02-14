@@ -1,0 +1,4 @@
+{"level":"error","message":{"method":"POST","path":"/login","responseTime":"389ms","statusCode":400,"timestampIST":"14/1/2026, 2:17:11 pm","userId":null},"timestamp":"14/01/2026 02:17:12 pm"}
+{"level":"error","message":{"method":"POST","path":"/login","responseTime":"261ms","statusCode":400,"timestampIST":"14/1/2026, 2:17:18 pm","userId":null},"timestamp":"14/01/2026 02:17:18 pm"}
+{"level":"error","message":{"method":"POST","path":"/login","responseTime":"830ms","statusCode":400,"timestampIST":"14/1/2026, 3:46:27 pm","userId":null},"timestamp":"14/01/2026 03:46:28 pm"}
+{"level":"error","message":{"method":"POST","path":"/login","responseTime":"749ms","statusCode":400,"timestampIST":"14/1/2026, 3:46:31 pm","userId":null},"timestamp":"14/01/2026 03:46:32 pm"}

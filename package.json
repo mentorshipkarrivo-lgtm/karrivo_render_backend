@@ -1,0 +1,51 @@
+{
+  "name": "functions",
+  "description": "Cloud Functions for Firebase",
+  "type": "module",
+  "main": "index.js",
+  "private": true,
+  "engines": {
+    "node": "20"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "dev": "firebase emulators:start",
+    "serve": "firebase emulators:start --only functions",
+    "build": "echo Build step complete",
+    "deploy": "firebase deploy --only functions",
+    "logs": "firebase functions:log"
+  },
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.937.0",
+    "@aws-sdk/s3-request-presigner": "^3.937.0",
+    "bcrypt": "^6.0.0",
+    "cashfree-pg": "^5.1.0",
+    "cors": "^2.8.6",
+    "cron": "^4.4.0",
+    "dotenv": "^17.3.1",
+    "express": "^4.19.2",
+    "express-validator": "^7.3.1",
+    "firebase-admin": "^12.7.0",
+    "firebase-functions": "^4.9.0",
+    "form-data": "^4.0.5",
+    "google-auth-library": "^10.5.0",
+    "helmet": "^8.1.0",
+    "ip": "^2.0.1",
+    "jsonwebtoken": "^9.0.3",
+    "mailgun.js": "^12.1.1",
+    "mongodb": "^7.0.0",
+    "mongoose": "^9.2.1",
+    "multer": "^2.0.2",
+    "node-cache": "^5.1.2",
+    "node-input-validator": "^4.6.0",
+    "nodemailer": "^7.0.10",
+    "winston": "^3.19.0",
+    "winston-cloudwatch": "^6.3.0",
+    "winston-daily-rotate-file": "^5.0.0",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "firebase-functions-test": "^3.4.1",
+    "nodemon": "^3.1.11"
+  }
+}

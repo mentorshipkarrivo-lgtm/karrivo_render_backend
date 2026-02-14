@@ -1,0 +1,40 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "D:\\karrivo_back_end\\src\\logs\\.6ec0b6430c70e573f4f2840d3c63b9784aac2b32-audit.json",
+    "files": [
+        {
+            "date": 1769321696702,
+            "name": "D:\\karrivo_back_end\\src\\logs\\jaimax-all-logs-2026-01-25.log",
+            "hash": "7e18cdd9126326fc905139ee7450aaa6cb751319f6944f4df14724aa74d50ec8"
+        },
+        {
+            "date": 1769373017251,
+            "name": "D:\\karrivo_back_end\\src\\logs\\jaimax-all-logs-2026-01-26.log",
+            "hash": "271e5e8966f758907aa0b2e03a5e7fd72497ff713b5792d134b223cd98a712f9"
+        },
+        {
+            "date": 1769527744434,
+            "name": "D:\\karrivo_back_end\\src\\logs\\jaimax-all-logs-2026-01-27.log",
+            "hash": "a4b273f03a16fdd32f74e863759cf8f8c1abac97c2308cc94f2635cda7639f6d"
+        },
+        {
+            "date": 1769612289908,
+            "name": "D:\\karrivo_back_end\\src\\logs\\jaimax-all-logs-2026-01-28.log",
+            "hash": "5e8ea7cf5a1adfe061c15f2952cbe615bb383c6f98f20e2d94c3e34305c0e1b5"
+        },
+        {
+            "date": 1769662840871,
+            "name": "D:\\karrivo_back_end\\src\\logs\\jaimax-all-logs-2026-01-29.log",
+            "hash": "713615277e4040b3e300a61cbaa7456581da644e9a7556a85b7c7f13238ab903"
+        },
+        {
+            "date": 1769713044731,
+            "name": "D:\\karrivo_back_end\\src\\logs\\jaimax-all-logs-2026-01-30.log",
+            "hash": "43256721d19390ab478703ed62865e7484c721e8b4f6cce0de2bfd539f823b8b"
+        }
+    ],
+    "hashType": "sha256"
+}

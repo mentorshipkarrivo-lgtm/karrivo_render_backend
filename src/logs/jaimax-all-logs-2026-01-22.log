@@ -1,0 +1,133 @@
+{"level":"info","message":"MongoDB Connected (development)","timestamp":"22/01/2026 10:03:38 pm"}
+{"level":"info","message":"App Start on 127.0.0.1:3002 🖐","timestamp":"22/01/2026 10:03:38 pm"}
+{"level":"info","message":{"method":"GET","path":"/topmentors?limit=4","responseTime":"1271ms","statusCode":200,"timestampIST":"22/1/2026, 10:06:57 pm","userId":null},"timestamp":"22/01/2026 10:06:58 pm"}
+{"level":"info","message":{"method":"GET","path":"/topmentors?limit=4","responseTime":"43ms","statusCode":304,"timestampIST":"22/1/2026, 10:07:21 pm","userId":null},"timestamp":"22/01/2026 10:07:21 pm"}
+{"level":"error","message":{"method":"POST","path":"/login","responseTime":"178ms","statusCode":400,"timestampIST":"22/1/2026, 10:07:43 pm","userId":null},"timestamp":"22/01/2026 10:07:43 pm"}
+{"level":"info","message":{"method":"GET","path":"/topmentors?limit=4","responseTime":"1996ms","statusCode":304,"timestampIST":"22/1/2026, 10:23:56 pm","userId":null},"timestamp":"22/01/2026 10:23:58 pm"}
+{"level":"info","message":{"method":"GET","path":"/topmentors?limit=4","responseTime":"17ms","statusCode":304,"timestampIST":"22/1/2026, 10:24:07 pm","userId":null},"timestamp":"22/01/2026 10:24:07 pm"}
+{"level":"error","message":{"method":"POST","path":"/login","responseTime":"169ms","statusCode":400,"timestampIST":"22/1/2026, 10:24:13 pm","userId":null},"timestamp":"22/01/2026 10:24:13 pm"}
+{"level":"error","message":{"method":"POST","path":"/login","responseTime":"424ms","statusCode":400,"timestampIST":"22/1/2026, 10:25:46 pm","userId":null},"timestamp":"22/01/2026 10:25:47 pm"}
+{"level":"error","message":{"method":"POST","path":"/login","responseTime":"1007ms","statusCode":400,"timestampIST":"22/1/2026, 10:26:03 pm","userId":null},"timestamp":"22/01/2026 10:26:04 pm"}
+{"level":"error","message":{"method":"POST","path":"/login","responseTime":"975ms","statusCode":400,"timestampIST":"22/1/2026, 10:26:11 pm","userId":null},"timestamp":"22/01/2026 10:26:12 pm"}
+{"level":"error","message":{"method":"POST","path":"/register","responseTime":"105ms","statusCode":400,"timestampIST":"22/1/2026, 10:26:36 pm","userId":null},"timestamp":"22/01/2026 10:26:36 pm"}
+{"level":"info","message":{"method":"POST","path":"/register","responseTime":"1451ms","statusCode":200,"timestampIST":"22/1/2026, 10:26:41 pm","userId":null},"timestamp":"22/01/2026 10:26:43 pm"}
+{"level":"info","message":{"method":"POST","path":"/isVerify","responseTime":"175ms","statusCode":200,"timestampIST":"22/1/2026, 10:27:00 pm","userId":null},"timestamp":"22/01/2026 10:27:00 pm"}
+{"level":"info","message":{"method":"GET","path":"/topmentors?limit=4","responseTime":"33ms","statusCode":304,"timestampIST":"22/1/2026, 10:28:25 pm","userId":null},"timestamp":"22/01/2026 10:28:25 pm"}
+{"level":"info","message":{"method":"POST","path":"/login","responseTime":"835ms","statusCode":200,"timestampIST":"22/1/2026, 10:29:23 pm","userId":null},"timestamp":"22/01/2026 10:29:24 pm"}
+{"level":"info","message":{"method":"GET","path":"/allmentors?","responseTime":"102ms","statusCode":200,"timestampIST":"22/1/2026, 10:29:27 pm","userId":null},"timestamp":"22/01/2026 10:29:28 pm"}
+{"level":"info","message":{"method":"GET","path":"/get-mentee-profile/KarrivoKarrivo809XFBKOV","responseTime":"102ms","statusCode":200,"timestampIST":"22/1/2026, 10:29:36 pm","userId":null},"timestamp":"22/01/2026 10:29:36 pm"}
+{"level":"info","message":{"method":"GET","path":"/topmentors?limit=4","responseTime":"153ms","statusCode":304,"timestampIST":"22/1/2026, 10:40:03 pm","userId":null},"timestamp":"22/01/2026 10:40:03 pm"}
+{"level":"info","message":{"method":"GET","path":"/get-mentee-profile/KarrivoKarrivo809XFBKOV","responseTime":"32ms","statusCode":304,"timestampIST":"22/1/2026, 10:40:13 pm","userId":null},"timestamp":"22/01/2026 10:40:13 pm"}
+{"level":"info","message":{"method":"POST","path":"/save-profile","responseTime":"281ms","statusCode":200,"timestampIST":"22/1/2026, 10:40:59 pm","userId":null},"timestamp":"22/01/2026 10:40:59 pm"}
+{"level":"info","message":{"method":"GET","path":"/get-mentee-profile/KarrivoKarrivo809XFBKOV","responseTime":"19ms","statusCode":200,"timestampIST":"22/1/2026, 10:40:59 pm","userId":null},"timestamp":"22/01/2026 10:40:59 pm"}
+{"level":"info","message":{"method":"POST","path":"/save-profile","responseTime":"37ms","statusCode":200,"timestampIST":"22/1/2026, 10:41:33 pm","userId":null},"timestamp":"22/01/2026 10:41:33 pm"}
+{"level":"info","message":{"method":"GET","path":"/get-mentee-profile/KarrivoKarrivo809XFBKOV","responseTime":"24ms","statusCode":200,"timestampIST":"22/1/2026, 10:41:33 pm","userId":null},"timestamp":"22/01/2026 10:41:33 pm"}
+{"level":"info","message":{"method":"POST","path":"/save-profile","responseTime":"28ms","statusCode":200,"timestampIST":"22/1/2026, 10:41:58 pm","userId":null},"timestamp":"22/01/2026 10:41:58 pm"}
+{"level":"info","message":{"method":"GET","path":"/get-mentee-profile/KarrivoKarrivo809XFBKOV","responseTime":"9ms","statusCode":200,"timestampIST":"22/1/2026, 10:41:58 pm","userId":null},"timestamp":"22/01/2026 10:41:58 pm"}
+{"level":"info","message":{"method":"GET","path":"/get-mentee-profile/KarrivoKarrivo809XFBKOV","responseTime":"152ms","statusCode":304,"timestampIST":"22/1/2026, 10:44:51 pm","userId":null},"timestamp":"22/01/2026 10:44:51 pm"}
+{"level":"info","message":{"method":"GET","path":"/get-mentee-profile/KarrivoKarrivo809XFBKOV","responseTime":"14ms","statusCode":304,"timestampIST":"22/1/2026, 10:45:03 pm","userId":null},"timestamp":"22/01/2026 10:45:03 pm"}
+{"level":"info","message":{"method":"GET","path":"/get-tickets/Karrivo747IRNR","responseTime":"329ms","statusCode":200,"timestampIST":"22/1/2026, 10:47:04 pm","userId":null},"timestamp":"22/01/2026 10:47:05 pm"}
+{"level":"info","message":{"method":"GET","path":"/get-mentee-profile/KarrivoKarrivo809XFBKOV","responseTime":"173ms","statusCode":304,"timestampIST":"22/1/2026, 10:49:44 pm","userId":null},"timestamp":"22/01/2026 10:49:44 pm"}
+{"level":"info","message":{"method":"GET","path":"/get-mentee-profile/KarrivoKarrivo809XFBKOV","responseTime":"8ms","statusCode":304,"timestampIST":"22/1/2026, 10:50:13 pm","userId":null},"timestamp":"22/01/2026 10:50:13 pm"}
+{"level":"info","message":{"method":"GET","path":"/get-mentee-profile/KarrivoKarrivo809XFBKOV","responseTime":"12ms","statusCode":304,"timestampIST":"22/1/2026, 10:50:23 pm","userId":null},"timestamp":"22/01/2026 10:50:23 pm"}
+{"level":"info","message":{"method":"POST","path":"/save-profile","responseTime":"60ms","statusCode":200,"timestampIST":"22/1/2026, 10:50:33 pm","userId":null},"timestamp":"22/01/2026 10:50:34 pm"}
+{"level":"info","message":{"method":"GET","path":"/get-mentee-profile/KarrivoKarrivo809XFBKOV","responseTime":"9ms","statusCode":200,"timestampIST":"22/1/2026, 10:50:34 pm","userId":null},"timestamp":"22/01/2026 10:50:34 pm"}
+{"level":"info","message":{"method":"GET","path":"/get-mentee-profile/KarrivoKarrivo809XFBKOV","responseTime":"11ms","statusCode":304,"timestampIST":"22/1/2026, 10:52:09 pm","userId":null},"timestamp":"22/01/2026 10:52:09 pm"}
+{"level":"info","message":{"method":"POST","path":"/save-profile","responseTime":"99ms","statusCode":200,"timestampIST":"22/1/2026, 10:55:33 pm","userId":null},"timestamp":"22/01/2026 10:55:33 pm"}
+{"level":"info","message":{"method":"GET","path":"/get-mentee-profile/KarrivoKarrivo809XFBKOV","responseTime":"21ms","statusCode":200,"timestampIST":"22/1/2026, 10:55:33 pm","userId":null},"timestamp":"22/01/2026 10:55:33 pm"}
+{"level":"info","message":"MongoDB Connected (development)","timestamp":"22/01/2026 10:58:06 pm"}
+{"level":"info","message":"App Start on 10.36.197.137:3002 🖐","timestamp":"22/01/2026 10:58:06 pm"}
+{"level":"info","message":"MongoDB Connected (development)","timestamp":"22/01/2026 10:58:31 pm"}
+{"level":"info","message":"App Start on 10.36.197.137:3002 🖐","timestamp":"22/01/2026 10:58:31 pm"}
+{"level":"info","message":"MongoDB Connected (development)","timestamp":"22/01/2026 10:59:58 pm"}
+{"level":"info","message":"App Start on 10.36.197.137:3002 🖐","timestamp":"22/01/2026 10:59:58 pm"}
+{"level":"info","message":{"method":"GET","path":"/get-mentee-profile/KarrivoKarrivo809XFBKOV","responseTime":"32ms","statusCode":200,"timestampIST":"22/1/2026, 11:00:00 pm","userId":null},"timestamp":"22/01/2026 11:00:00 pm"}
+{"level":"info","message":{"method":"GET","path":"/get-mentee-profile/KarrivoKarrivo809XFBKOV","responseTime":"16ms","statusCode":200,"timestampIST":"22/1/2026, 11:00:16 pm","userId":null},"timestamp":"22/01/2026 11:00:16 pm"}
+{"level":"info","message":{"method":"GET","path":"/get-mentee-profile/KarrivoKarrivo809XFBKOV","responseTime":"5ms","statusCode":304,"timestampIST":"22/1/2026, 11:00:19 pm","userId":null},"timestamp":"22/01/2026 11:00:19 pm"}
+{"level":"info","message":{"method":"POST","path":"/save-profile","responseTime":"25ms","statusCode":200,"timestampIST":"22/1/2026, 11:00:45 pm","userId":null},"timestamp":"22/01/2026 11:00:45 pm"}
+{"level":"info","message":{"method":"GET","path":"/get-mentee-profile/KarrivoKarrivo809XFBKOV","responseTime":"7ms","statusCode":200,"timestampIST":"22/1/2026, 11:00:45 pm","userId":null},"timestamp":"22/01/2026 11:00:45 pm"}
+{"level":"info","message":{"method":"POST","path":"/save-profile","responseTime":"10ms","statusCode":200,"timestampIST":"22/1/2026, 11:01:18 pm","userId":null},"timestamp":"22/01/2026 11:01:18 pm"}
+{"level":"info","message":{"method":"GET","path":"/get-mentee-profile/KarrivoKarrivo809XFBKOV","responseTime":"13ms","statusCode":200,"timestampIST":"22/1/2026, 11:01:18 pm","userId":null},"timestamp":"22/01/2026 11:01:18 pm"}
+{"level":"info","message":{"method":"POST","path":"/save-profile","responseTime":"11ms","statusCode":200,"timestampIST":"22/1/2026, 11:01:50 pm","userId":null},"timestamp":"22/01/2026 11:01:51 pm"}
+{"level":"info","message":{"method":"GET","path":"/get-mentee-profile/KarrivoKarrivo809XFBKOV","responseTime":"12ms","statusCode":200,"timestampIST":"22/1/2026, 11:01:51 pm","userId":null},"timestamp":"22/01/2026 11:01:51 pm"}
+{"level":"info","message":{"method":"GET","path":"/topmentors?limit=4","responseTime":"11ms","statusCode":304,"timestampIST":"22/1/2026, 11:02:52 pm","userId":null},"timestamp":"22/01/2026 11:02:52 pm"}
+{"level":"info","message":{"method":"GET","path":"/allmentors?","responseTime":"56ms","statusCode":304,"timestampIST":"22/1/2026, 11:02:55 pm","userId":null},"timestamp":"22/01/2026 11:02:55 pm"}
+{"level":"info","message":{"method":"GET","path":"/allmentors?","responseTime":"23ms","statusCode":304,"timestampIST":"22/1/2026, 11:03:27 pm","userId":null},"timestamp":"22/01/2026 11:03:27 pm"}
+{"level":"info","message":{"method":"GET","path":"/allmentors?","responseTime":"27ms","statusCode":304,"timestampIST":"22/1/2026, 11:08:58 pm","userId":null},"timestamp":"22/01/2026 11:08:58 pm"}
+{"level":"info","message":{"method":"GET","path":"/get-mentee-profile/KarrivoKarrivo809XFBKOV","responseTime":"38ms","statusCode":304,"timestampIST":"22/1/2026, 11:09:05 pm","userId":null},"timestamp":"22/01/2026 11:09:05 pm"}
+{"level":"warn","message":"404 - Route not found: GET /api/mentee/dashboard/details/KarrivoKarrivo809XFBKOV","timestamp":"22/01/2026 11:15:09 pm"}
+{"level":"error","message":{"method":"GET","path":"/api/mentee/dashboard/details/KarrivoKarrivo809XFBKOV","responseTime":"104ms","statusCode":404,"timestampIST":"22/1/2026, 11:15:09 pm","userId":null},"timestamp":"22/01/2026 11:15:09 pm"}
+{"level":"warn","message":"404 - Route not found: GET /api/mentee/dashboard/details/KarrivoKarrivo809XFBKOV","timestamp":"22/01/2026 11:15:10 pm"}
+{"level":"error","message":{"method":"GET","path":"/api/mentee/dashboard/details/KarrivoKarrivo809XFBKOV","responseTime":"7ms","statusCode":404,"timestampIST":"22/1/2026, 11:15:10 pm","userId":null},"timestamp":"22/01/2026 11:15:10 pm"}
+{"level":"info","message":"MongoDB Connected (development)","timestamp":"22/01/2026 11:16:50 pm"}
+{"level":"info","message":"App Start on 10.36.197.137:3002 🖐","timestamp":"22/01/2026 11:16:50 pm"}
+{"level":"warn","message":"404 - Route not found: GET /api/mentee/dashboard/details/KarrivoKarrivo809XFBKOV","timestamp":"22/01/2026 11:16:59 pm"}
+{"level":"error","message":{"method":"GET","path":"/api/mentee/dashboard/details/KarrivoKarrivo809XFBKOV","responseTime":"14ms","statusCode":404,"timestampIST":"22/1/2026, 11:16:59 pm","userId":null},"timestamp":"22/01/2026 11:16:59 pm"}
+{"level":"warn","message":"404 - Route not found: GET /api/mentee/dashboard/details/KarrivoKarrivo809XFBKOV","timestamp":"22/01/2026 11:17:05 pm"}
+{"level":"error","message":{"method":"GET","path":"/api/mentee/dashboard/details/KarrivoKarrivo809XFBKOV","responseTime":"4ms","statusCode":404,"timestampIST":"22/1/2026, 11:17:05 pm","userId":null},"timestamp":"22/01/2026 11:17:05 pm"}
+{"level":"info","message":{"method":"GET","path":"/get-mentee-profile/KarrivoKarrivo809XFBKOV","responseTime":"74ms","statusCode":304,"timestampIST":"22/1/2026, 11:18:20 pm","userId":null},"timestamp":"22/01/2026 11:18:20 pm"}
+{"level":"info","message":"MongoDB Connected (development)","timestamp":"22/01/2026 11:19:14 pm"}
+{"level":"info","message":"App Start on 10.36.197.137:3002 🖐","timestamp":"22/01/2026 11:19:14 pm"}
+{"level":"warn","message":"404 - Route not found: GET /api/mentee/dashboard/details/KarrivoKarrivo809XFBKOV","timestamp":"22/01/2026 11:19:16 pm"}
+{"level":"error","message":{"method":"GET","path":"/api/mentee/dashboard/details/KarrivoKarrivo809XFBKOV","responseTime":"7ms","statusCode":404,"timestampIST":"22/1/2026, 11:19:16 pm","userId":null},"timestamp":"22/01/2026 11:19:16 pm"}
+{"level":"warn","message":"404 - Route not found: GET /api/mentee/dashboard/details/KarrivoKarrivo809XFBKOV","timestamp":"22/01/2026 11:19:18 pm"}
+{"level":"error","message":{"method":"GET","path":"/api/mentee/dashboard/details/KarrivoKarrivo809XFBKOV","responseTime":"7ms","statusCode":404,"timestampIST":"22/1/2026, 11:19:18 pm","userId":null},"timestamp":"22/01/2026 11:19:18 pm"}
+{"level":"info","message":"MongoDB Connected (development)","timestamp":"22/01/2026 11:20:02 pm"}
+{"level":"info","message":"App Start on 10.36.197.137:3002 🖐","timestamp":"22/01/2026 11:20:02 pm"}
+{"level":"error","message":{"method":"GET","path":"/details/KarrivoKarrivo809XFBKOV","responseTime":"31ms","statusCode":500,"timestampIST":"22/1/2026, 11:20:02 pm","userId":null},"timestamp":"22/01/2026 11:20:02 pm"}
+{"level":"info","message":"MongoDB Connected (development)","timestamp":"22/01/2026 11:22:13 pm"}
+{"level":"info","message":"App Start on 10.36.197.137:3002 🖐","timestamp":"22/01/2026 11:22:13 pm"}
+{"level":"info","message":"MongoDB Connected (development)","timestamp":"22/01/2026 11:22:18 pm"}
+{"level":"info","message":"App Start on 10.36.197.137:3002 🖐","timestamp":"22/01/2026 11:22:18 pm"}
+{"level":"info","message":{"method":"GET","path":"/details/KarrivoKarrivo809XFBKOV","responseTime":"130ms","statusCode":200,"timestampIST":"22/1/2026, 11:22:24 pm","userId":null},"timestamp":"22/01/2026 11:22:24 pm"}
+{"level":"info","message":{"method":"GET","path":"/details/KarrivoKarrivo809XFBKOV","responseTime":"60ms","statusCode":200,"timestampIST":"22/1/2026, 11:23:31 pm","userId":null},"timestamp":"22/01/2026 11:23:31 pm"}
+{"level":"info","message":{"method":"GET","path":"/details/KarrivoKarrivo809XFBKOV","responseTime":"20ms","statusCode":200,"timestampIST":"22/1/2026, 11:23:32 pm","userId":null},"timestamp":"22/01/2026 11:23:32 pm"}
+{"level":"info","message":"MongoDB Connected (development)","timestamp":"22/01/2026 11:26:53 pm"}
+{"level":"info","message":"App Start on 10.36.197.137:3002 🖐","timestamp":"22/01/2026 11:26:53 pm"}
+{"level":"info","message":"MongoDB Connected (development)","timestamp":"22/01/2026 11:26:58 pm"}
+{"level":"info","message":"App Start on 10.36.197.137:3002 🖐","timestamp":"22/01/2026 11:26:58 pm"}
+{"level":"info","message":"MongoDB Connected (development)","timestamp":"22/01/2026 11:27:04 pm"}
+{"level":"info","message":"App Start on 10.36.197.137:3002 🖐","timestamp":"22/01/2026 11:27:04 pm"}
+{"level":"info","message":"MongoDB Connected (development)","timestamp":"22/01/2026 11:27:47 pm"}
+{"level":"info","message":"App Start on 10.36.197.137:3002 🖐","timestamp":"22/01/2026 11:27:48 pm"}
+{"level":"error","message":{"method":"GET","path":"/details/KarrivoKarrivo809XFBKOV","responseTime":"78ms","statusCode":500,"timestampIST":"22/1/2026, 11:27:48 pm","userId":null},"timestamp":"22/01/2026 11:27:48 pm"}
+{"level":"info","message":"MongoDB Connected (development)","timestamp":"22/01/2026 11:28:32 pm"}
+{"level":"info","message":"App Start on 10.36.197.137:3002 🖐","timestamp":"22/01/2026 11:28:32 pm"}
+{"level":"error","message":{"method":"GET","path":"/details/KarrivoKarrivo809XFBKOV","responseTime":"89ms","statusCode":500,"timestampIST":"22/1/2026, 11:28:32 pm","userId":null},"timestamp":"22/01/2026 11:28:32 pm"}
+{"level":"info","message":"MongoDB Connected (development)","timestamp":"22/01/2026 11:29:02 pm"}
+{"level":"info","message":"App Start on 10.36.197.137:3002 🖐","timestamp":"22/01/2026 11:29:02 pm"}
+{"level":"error","message":{"method":"GET","path":"/details/KarrivoKarrivo809XFBKOV","responseTime":"37ms","statusCode":500,"timestampIST":"22/1/2026, 11:29:02 pm","userId":null},"timestamp":"22/01/2026 11:29:02 pm"}
+{"level":"info","message":"MongoDB Connected (development)","timestamp":"22/01/2026 11:29:19 pm"}
+{"level":"info","message":"App Start on 10.36.197.137:3002 🖐","timestamp":"22/01/2026 11:29:19 pm"}
+{"level":"info","message":"MongoDB Connected (development)","timestamp":"22/01/2026 11:29:24 pm"}
+{"level":"info","message":"App Start on 10.36.197.137:3002 🖐","timestamp":"22/01/2026 11:29:24 pm"}
+{"level":"error","message":{"method":"GET","path":"/details/KarrivoKarrivo809XFBKOV","responseTime":"39ms","statusCode":500,"timestampIST":"22/1/2026, 11:29:24 pm","userId":null},"timestamp":"22/01/2026 11:29:24 pm"}
+{"level":"info","message":"MongoDB Connected (development)","timestamp":"22/01/2026 11:30:58 pm"}
+{"level":"info","message":"App Start on 10.36.197.137:3002 🖐","timestamp":"22/01/2026 11:30:58 pm"}
+{"level":"info","message":{"method":"GET","path":"/details/KarrivoKarrivo809XFBKOV","responseTime":"64ms","statusCode":200,"timestampIST":"22/1/2026, 11:31:03 pm","userId":null},"timestamp":"22/01/2026 11:31:03 pm"}
+{"level":"info","message":{"method":"GET","path":"/details/KarrivoKarrivo809XFBKOV","responseTime":"54ms","statusCode":304,"timestampIST":"22/1/2026, 11:41:21 pm","userId":null},"timestamp":"22/01/2026 11:41:21 pm"}
+{"level":"info","message":{"method":"GET","path":"/allmentors?","responseTime":"176ms","statusCode":304,"timestampIST":"22/1/2026, 11:41:26 pm","userId":null},"timestamp":"22/01/2026 11:41:26 pm"}
+{"level":"info","message":{"method":"GET","path":"/get-mentee-profile/KarrivoKarrivo809XFBKOV","responseTime":"21ms","statusCode":304,"timestampIST":"22/1/2026, 11:41:56 pm","userId":null},"timestamp":"22/01/2026 11:41:56 pm"}
+{"level":"info","message":{"method":"GET","path":"/get-tickets/Karrivo747IRNR","responseTime":"23ms","statusCode":304,"timestampIST":"22/1/2026, 11:41:58 pm","userId":null},"timestamp":"22/01/2026 11:41:58 pm"}
+{"level":"info","message":{"method":"GET","path":"/topmentors?limit=4","responseTime":"14ms","statusCode":304,"timestampIST":"22/1/2026, 11:42:05 pm","userId":null},"timestamp":"22/01/2026 11:42:05 pm"}
+{"level":"info","message":"MongoDB Connected (development)","timestamp":"22/01/2026 11:42:42 pm"}
+{"level":"info","message":"App Start on 10.36.197.137:3002 🖐","timestamp":"22/01/2026 11:42:42 pm"}
+{"level":"info","message":"MongoDB Connected (development)","timestamp":"22/01/2026 11:42:50 pm"}
+{"level":"info","message":"App Start on 10.36.197.137:3002 🖐","timestamp":"22/01/2026 11:42:50 pm"}
+{"level":"info","message":"MongoDB Connected (development)","timestamp":"22/01/2026 11:43:00 pm"}
+{"level":"info","message":"App Start on 10.36.197.137:3002 🖐","timestamp":"22/01/2026 11:43:00 pm"}
+{"level":"info","message":{"method":"GET","path":"/details/KarrivoKarrivo809XFBKOV","responseTime":"41ms","statusCode":304,"timestampIST":"22/1/2026, 11:43:01 pm","userId":null},"timestamp":"22/01/2026 11:43:01 pm"}
+{"level":"info","message":"MongoDB Connected (development)","timestamp":"22/01/2026 11:44:52 pm"}
+{"level":"info","message":"App Start on 10.36.197.137:3002 🖐","timestamp":"22/01/2026 11:44:52 pm"}
+{"level":"info","message":"MongoDB Connected (development)","timestamp":"22/01/2026 11:45:02 pm"}
+{"level":"info","message":"App Start on 10.36.197.137:3002 🖐","timestamp":"22/01/2026 11:45:02 pm"}
+{"level":"info","message":"MongoDB Connected (development)","timestamp":"22/01/2026 11:45:12 pm"}
+{"level":"info","message":"App Start on 10.36.197.137:3002 🖐","timestamp":"22/01/2026 11:45:12 pm"}
+{"level":"info","message":{"method":"GET","path":"/details/KarrivoKarrivo809XFBKOV","responseTime":"66ms","statusCode":304,"timestampIST":"22/1/2026, 11:45:13 pm","userId":null},"timestamp":"22/01/2026 11:45:13 pm"}
+{"level":"info","message":"MongoDB Connected (development)","timestamp":"22/01/2026 11:45:30 pm"}
+{"level":"info","message":"App Start on 10.36.197.137:3002 🖐","timestamp":"22/01/2026 11:45:30 pm"}
+{"level":"info","message":"MongoDB Connected (development)","timestamp":"22/01/2026 11:46:30 pm"}
+{"level":"info","message":"App Start on 10.36.197.137:3002 🖐","timestamp":"22/01/2026 11:46:30 pm"}
+{"level":"info","message":{"method":"GET","path":"/details/KarrivoKarrivo809XFBKOV","responseTime":"111ms","statusCode":304,"timestampIST":"22/1/2026, 11:46:35 pm","userId":null},"timestamp":"22/01/2026 11:46:35 pm"}
+{"level":"info","message":"MongoDB Connected (development)","timestamp":"22/01/2026 11:57:45 pm"}
+{"level":"info","message":"App Start on 10.36.197.137:3002 🖐","timestamp":"22/01/2026 11:57:45 pm"}

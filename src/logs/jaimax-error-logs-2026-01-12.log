@@ -1,0 +1,14 @@
+{"level":"error","message":{"method":"POST","path":"/login","responseTime":"62ms","statusCode":400,"timestampIST":"12/1/2026, 9:41:43 pm","userId":null},"timestamp":"12/01/2026 09:41:43 pm"}
+{"level":"error","message":{"method":"POST","path":"/login","responseTime":"9ms","statusCode":400,"timestampIST":"12/1/2026, 9:41:46 pm","userId":null},"timestamp":"12/01/2026 09:41:46 pm"}
+{"level":"error","message":{"method":"POST","path":"/login","responseTime":"599ms","statusCode":400,"timestampIST":"12/1/2026, 9:44:53 pm","userId":null},"timestamp":"12/01/2026 09:44:54 pm"}
+{"level":"error","message":{"method":"POST","path":"/login","responseTime":"320ms","statusCode":400,"timestampIST":"12/1/2026, 9:45:06 pm","userId":null},"timestamp":"12/01/2026 09:45:06 pm"}
+{"level":"error","message":{"method":"POST","path":"/forgotPassword","responseTime":"71ms","statusCode":400,"timestampIST":"12/1/2026, 9:45:12 pm","userId":null},"timestamp":"12/01/2026 09:45:12 pm"}
+{"level":"error","message":{"method":"POST","path":"/forgotPassword","responseTime":"22ms","statusCode":400,"timestampIST":"12/1/2026, 9:45:17 pm","userId":null},"timestamp":"12/01/2026 09:45:17 pm"}
+{"level":"error","message":{"method":"POST","path":"/login","responseTime":"22ms","statusCode":400,"timestampIST":"12/1/2026, 9:59:15 pm","userId":null},"timestamp":"12/01/2026 09:59:15 pm"}
+{"level":"error","message":{"method":"POST","path":"/bookings_session","responseTime":"39ms","statusCode":400,"timestampIST":"12/1/2026, 9:59:56 pm","userId":null},"timestamp":"12/01/2026 09:59:56 pm"}
+{"level":"error","message":{"method":"POST","path":"/login","responseTime":"5ms","statusCode":400,"timestampIST":"12/1/2026, 10:01:13 pm","userId":null},"timestamp":"12/01/2026 10:01:13 pm"}
+{"level":"error","message":{"method":"POST","path":"/login","responseTime":"103ms","statusCode":400,"timestampIST":"12/1/2026, 10:31:39 pm","userId":null},"timestamp":"12/01/2026 10:31:39 pm"}
+{"level":"error","message":{"method":"POST","path":"/login","responseTime":"11ms","statusCode":400,"timestampIST":"12/1/2026, 10:31:55 pm","userId":null},"timestamp":"12/01/2026 10:31:55 pm"}
+{"level":"error","message":{"method":"POST","path":"/bookings_session","responseTime":"109ms","statusCode":500,"timestampIST":"12/1/2026, 10:33:29 pm","userId":null},"timestamp":"12/01/2026 10:33:29 pm"}
+{"level":"error","message":{"method":"POST","path":"/bookings_session","responseTime":"30ms","statusCode":500,"timestampIST":"12/1/2026, 10:33:37 pm","userId":null},"timestamp":"12/01/2026 10:33:37 pm"}
+{"level":"error","message":{"method":"POST","path":"/bookings_session","responseTime":"52ms","statusCode":400,"timestampIST":"12/1/2026, 10:38:52 pm","userId":null},"timestamp":"12/01/2026 10:38:52 pm"}

@@ -1,0 +1,10 @@
+node_modules/
+*.local
+
+
+
+
+echo functions/config/serviceAccountKey.json >> .gitignore
+echo .env >> .gitignore
+git add .gitignore
+git commit -m "Ignore sensitive files"

@@ -1,0 +1,154 @@
+{"level":"info","message":"MongoDB Connected successfully","timestamp":"14/02/2026 07:19:13 am"}
+{"level":"info","message":{"method":"POST","path":"/login","responseTime":"1292ms","statusCode":200,"timestampIST":"14/2/2026, 12:49:13 pm","userId":null},"timestamp":"14/02/2026 07:19:14 am"}
+{"level":"error","message":{"method":"GET","path":"/details/KarrivoKarrivo530RAGHIL","responseTime":"46ms","statusCode":404,"timestampIST":"14/2/2026, 12:49:14 pm","userId":null},"timestamp":"14/02/2026 07:19:14 am"}
+{"level":"info","message":{"method":"POST","path":"/my-bookings","responseTime":"99ms","statusCode":200,"timestampIST":"14/2/2026, 12:49:23 pm","userId":null},"timestamp":"14/02/2026 07:19:23 am"}
+{"level":"info","message":"MongoDB Connected successfully","timestamp":"14/02/2026 08:22:27 am"}
+{"level":"error","message":{"method":"POST","path":"/login","responseTime":"66ms","statusCode":400,"timestampIST":"14/2/2026, 1:52:27 pm","userId":null},"timestamp":"14/02/2026 08:22:27 am"}
+{"level":"info","message":"Mongo DB connected successfully","timestamp":"14/02/2026 08:56:47 am"}
+{"level":"info","message":"Mongo DB connected successfully","timestamp":"14/02/2026 02:27:16 pm"}
+{"level":"info","message":"Mongo DB connected successfully","timestamp":"14/02/2026 02:29:46 pm"}
+{"level":"info","message":"Mongo DB connected successfully","timestamp":"14/02/2026 02:31:45 pm"}
+{"level":"info","message":"Mongo DB connected successfully","timestamp":"14/02/2026 02:35:30 pm"}
+{"level":"info","message":"Mongo DB connected successfully","timestamp":"14/02/2026 02:36:26 pm"}
+{"level":"info","message":"Mongo DB connected successfully","timestamp":"14/02/2026 02:37:20 pm"}
+{"level":"info","message":"Mongo DB connected successfully","timestamp":"14/02/2026 02:41:20 pm"}
+{"level":"info","message":"Mongo DB connected successfully","timestamp":"14/02/2026 02:42:45 pm"}
+{"level":"info","message":"Mongo DB connected successfully","timestamp":"14/02/2026 02:46:39 pm"}
+{"level":"info","message":"Mongo DB connected successfully","timestamp":"14/02/2026 02:49:11 pm"}
+{"level":"info","message":"Mongo DB connected successfully","timestamp":"14/02/2026 02:51:01 pm"}
+{"level":"info","message":"Mongo DB connected successfully","timestamp":"14/02/2026 02:54:16 pm"}
+{"level":"info","message":"Mongo DB connected successfully","timestamp":"14/02/2026 02:55:52 pm"}
+{"level":"info","message":"Mongo DB connected successfully","timestamp":"14/02/2026 09:27:46 am"}
+{"level":"info","message":"Mongo DB connected successfully","timestamp":"14/02/2026 09:28:18 am"}
+{"level":"info","message":{"method":"GET","path":"/topmentors?limit=4","responseTime":"68ms","statusCode":304,"timestampIST":"14/2/2026, 2:58:18 pm","userId":null},"timestamp":"14/02/2026 09:28:18 am"}
+{"level":"info","message":{"method":"GET","path":"/topmentors?limit=4","responseTime":"8ms","statusCode":304,"timestampIST":"14/2/2026, 3:01:10 pm","userId":null},"timestamp":"14/02/2026 09:31:10 am"}
+{"level":"info","message":{"method":"GET","path":"/topmentors?limit=4","responseTime":"6ms","statusCode":304,"timestampIST":"14/2/2026, 3:02:03 pm","userId":null},"timestamp":"14/02/2026 09:32:03 am"}
+{"level":"info","message":{"method":"GET","path":"/topmentors?limit=4","responseTime":"6ms","statusCode":304,"timestampIST":"14/2/2026, 3:02:23 pm","userId":null},"timestamp":"14/02/2026 09:32:23 am"}
+{"level":"info","message":{"method":"GET","path":"/topmentors?limit=4","responseTime":"5ms","statusCode":304,"timestampIST":"14/2/2026, 3:02:30 pm","userId":null},"timestamp":"14/02/2026 09:32:30 am"}
+{"level":"info","message":{"method":"GET","path":"/topmentors?limit=4","responseTime":"4ms","statusCode":304,"timestampIST":"14/2/2026, 3:04:11 pm","userId":null},"timestamp":"14/02/2026 09:34:11 am"}
+{"level":"info","message":{"method":"GET","path":"/topmentors?limit=4","responseTime":"9ms","statusCode":304,"timestampIST":"14/2/2026, 3:07:00 pm","userId":null},"timestamp":"14/02/2026 09:37:00 am"}
+{"level":"info","message":{"method":"GET","path":"/topmentors?limit=4","responseTime":"7ms","statusCode":304,"timestampIST":"14/2/2026, 3:07:07 pm","userId":null},"timestamp":"14/02/2026 09:37:07 am"}
+{"level":"info","message":{"method":"GET","path":"/topmentors?limit=4","responseTime":"6ms","statusCode":304,"timestampIST":"14/2/2026, 3:08:39 pm","userId":null},"timestamp":"14/02/2026 09:38:39 am"}
+{"level":"info","message":{"method":"GET","path":"/topmentors?limit=4","responseTime":"5ms","statusCode":304,"timestampIST":"14/2/2026, 3:10:39 pm","userId":null},"timestamp":"14/02/2026 09:40:39 am"}
+{"level":"info","message":{"method":"GET","path":"/topmentors?limit=4","responseTime":"9ms","statusCode":304,"timestampIST":"14/2/2026, 3:11:07 pm","userId":null},"timestamp":"14/02/2026 09:41:07 am"}
+{"level":"info","message":{"method":"GET","path":"/topmentors?limit=4","responseTime":"4ms","statusCode":304,"timestampIST":"14/2/2026, 3:11:36 pm","userId":null},"timestamp":"14/02/2026 09:41:36 am"}
+{"level":"info","message":{"method":"GET","path":"/topmentors?limit=4","responseTime":"5ms","statusCode":304,"timestampIST":"14/2/2026, 3:12:12 pm","userId":null},"timestamp":"14/02/2026 09:42:12 am"}
+{"level":"info","message":{"method":"GET","path":"/topmentors?limit=4","responseTime":"9ms","statusCode":304,"timestampIST":"14/2/2026, 3:15:59 pm","userId":null},"timestamp":"14/02/2026 09:45:59 am"}
+{"level":"info","message":{"method":"GET","path":"/topmentors?limit=4","responseTime":"4ms","statusCode":304,"timestampIST":"14/2/2026, 3:16:29 pm","userId":null},"timestamp":"14/02/2026 09:46:29 am"}
+{"level":"info","message":{"method":"GET","path":"/topmentors?limit=4","responseTime":"6ms","statusCode":304,"timestampIST":"14/2/2026, 3:16:56 pm","userId":null},"timestamp":"14/02/2026 09:46:56 am"}
+{"level":"info","message":{"method":"GET","path":"/topmentors?limit=4","responseTime":"6ms","statusCode":304,"timestampIST":"14/2/2026, 3:17:39 pm","userId":null},"timestamp":"14/02/2026 09:47:39 am"}
+{"level":"info","message":{"method":"GET","path":"/topmentors?limit=4","responseTime":"6ms","statusCode":304,"timestampIST":"14/2/2026, 3:18:02 pm","userId":null},"timestamp":"14/02/2026 09:48:02 am"}
+{"level":"info","message":{"method":"GET","path":"/topmentors?limit=4","responseTime":"8ms","statusCode":304,"timestampIST":"14/2/2026, 3:18:38 pm","userId":null},"timestamp":"14/02/2026 09:48:38 am"}
+{"level":"info","message":{"method":"GET","path":"/topmentors?limit=4","responseTime":"4ms","statusCode":304,"timestampIST":"14/2/2026, 3:19:10 pm","userId":null},"timestamp":"14/02/2026 09:49:10 am"}
+{"level":"info","message":{"method":"GET","path":"/topmentors?limit=4","responseTime":"4ms","statusCode":304,"timestampIST":"14/2/2026, 3:19:43 pm","userId":null},"timestamp":"14/02/2026 09:49:43 am"}
+{"level":"error","message":{"method":"GET","path":"/details/KarrivoKarrivo530RAGHIL","responseTime":"18ms","statusCode":404,"timestampIST":"14/2/2026, 3:19:49 pm","userId":null},"timestamp":"14/02/2026 09:49:49 am"}
+{"level":"info","message":"Mongo DB connected successfully","timestamp":"14/02/2026 03:24:46 pm"}
+{"level":"info","message":"Mongo DB connected successfully","timestamp":"14/02/2026 03:26:33 pm"}
+{"level":"info","message":"Mongo DB connected successfully","timestamp":"14/02/2026 03:30:32 pm"}
+{"level":"info","message":"Mongo DB connected successfully","timestamp":"14/02/2026 05:14:27 pm"}
+{"level":"info","message":"Mongo DB connected successfully","timestamp":"14/02/2026 09:04:05 pm"}
+{"level":"info","message":"Mongo DB connected successfully","timestamp":"14/02/2026 09:06:06 pm"}
+{"level":"info","message":"Mongo DB connected successfully","timestamp":"14/02/2026 03:55:46 pm"}
+{"level":"info","message":"Mongo DB connected successfully","timestamp":"14/02/2026 03:58:52 pm"}
+{"level":"info","message":{"method":"GET","path":"/topmentors?limit=4","responseTime":"42ms","statusCode":304,"timestampIST":"14/2/2026, 9:28:52 pm","userId":null},"timestamp":"14/02/2026 03:58:53 pm"}
+{"level":"info","message":{"method":"POST","path":"/register","responseTime":"368ms","statusCode":200,"timestampIST":"14/2/2026, 9:31:23 pm","userId":null},"timestamp":"14/02/2026 04:01:24 pm"}
+{"level":"info","message":{"method":"POST","path":"/isVerify","responseTime":"42ms","statusCode":200,"timestampIST":"14/2/2026, 9:32:18 pm","userId":null},"timestamp":"14/02/2026 04:02:18 pm"}
+{"level":"info","message":{"method":"POST","path":"/login","responseTime":"263ms","statusCode":200,"timestampIST":"14/2/2026, 9:32:18 pm","userId":null},"timestamp":"14/02/2026 04:02:18 pm"}
+{"level":"error","message":{"method":"GET","path":"/details/KarrivoKarrivo653GYIXR7","responseTime":"6ms","statusCode":404,"timestampIST":"14/2/2026, 9:32:18 pm","userId":null},"timestamp":"14/02/2026 04:02:18 pm"}
+{"level":"info","message":{"method":"POST","path":"/login","responseTime":"266ms","statusCode":200,"timestampIST":"14/2/2026, 9:32:47 pm","userId":null},"timestamp":"14/02/2026 04:02:48 pm"}
+{"level":"error","message":{"method":"GET","path":"/details/KarrivoKarrivo653GYIXR7","responseTime":"4ms","statusCode":404,"timestampIST":"14/2/2026, 9:32:48 pm","userId":null},"timestamp":"14/02/2026 04:02:48 pm"}
+{"level":"error","message":{"method":"GET","path":"/details/KarrivoKarrivo653GYIXR7","responseTime":"2ms","statusCode":404,"timestampIST":"14/2/2026, 9:33:02 pm","userId":null},"timestamp":"14/02/2026 04:03:02 pm"}
+{"level":"info","message":{"method":"POST","path":"/login","responseTime":"265ms","statusCode":200,"timestampIST":"14/2/2026, 9:34:44 pm","userId":null},"timestamp":"14/02/2026 04:04:44 pm"}
+{"level":"error","message":{"method":"GET","path":"/details/KarrivoKarrivo653GYIXR7","responseTime":"3ms","statusCode":404,"timestampIST":"14/2/2026, 9:34:44 pm","userId":null},"timestamp":"14/02/2026 04:04:44 pm"}
+{"level":"info","message":{"method":"GET","path":"/get-mentee-profile/KarrivoKarrivo653GYIXR7","responseTime":"4ms","statusCode":200,"timestampIST":"14/2/2026, 9:36:08 pm","userId":null},"timestamp":"14/02/2026 04:06:08 pm"}
+{"level":"error","message":{"method":"GET","path":"/details/KarrivoKarrivo653GYIXR7","responseTime":"4ms","statusCode":404,"timestampIST":"14/2/2026, 9:36:11 pm","userId":null},"timestamp":"14/02/2026 04:06:11 pm"}
+{"level":"info","message":{"method":"POST","path":"/get-mentor-details","responseTime":"6ms","statusCode":200,"timestampIST":"14/2/2026, 9:36:15 pm","userId":null},"timestamp":"14/02/2026 04:06:15 pm"}
+{"level":"info","message":"Mongo DB connected successfully","timestamp":"14/02/2026 04:06:20 pm"}
+{"level":"info","message":{"method":"POST","path":"/get-mentor-details","responseTime":"3ms","statusCode":200,"timestampIST":"14/2/2026, 9:36:21 pm","userId":null},"timestamp":"14/02/2026 04:06:21 pm"}
+{"level":"info","message":{"method":"GET","path":"/topmentors?limit=4","responseTime":"5ms","statusCode":304,"timestampIST":"14/2/2026, 9:37:53 pm","userId":null},"timestamp":"14/02/2026 04:07:53 pm"}
+{"level":"info","message":{"method":"GET","path":"/applications?undefined","responseTime":"83ms","statusCode":200,"timestampIST":"14/2/2026, 9:38:00 pm","userId":null},"timestamp":"14/02/2026 04:08:00 pm"}
+{"level":"info","message":{"method":"GET","path":"/applications?undefined","responseTime":"14ms","statusCode":304,"timestampIST":"14/2/2026, 9:38:37 pm","userId":null},"timestamp":"14/02/2026 04:08:37 pm"}
+{"level":"info","message":{"method":"GET","path":"/mentees?limit=10&page=1&search=","responseTime":"33ms","statusCode":200,"timestampIST":"14/2/2026, 9:38:38 pm","userId":null},"timestamp":"14/02/2026 04:08:38 pm"}
+{"level":"info","message":{"method":"POST","path":"/register","responseTime":"280ms","statusCode":200,"timestampIST":"14/2/2026, 9:40:21 pm","userId":null},"timestamp":"14/02/2026 04:10:21 pm"}
+{"level":"info","message":{"method":"POST","path":"/isVerify","responseTime":"16ms","statusCode":200,"timestampIST":"14/2/2026, 9:40:53 pm","userId":null},"timestamp":"14/02/2026 04:10:53 pm"}
+{"level":"info","message":{"method":"POST","path":"/login","responseTime":"264ms","statusCode":200,"timestampIST":"14/2/2026, 9:40:53 pm","userId":null},"timestamp":"14/02/2026 04:10:53 pm"}
+{"level":"error","message":{"method":"GET","path":"/details/KarrivoKarrivo67413T5MV","responseTime":"2ms","statusCode":404,"timestampIST":"14/2/2026, 9:40:53 pm","userId":null},"timestamp":"14/02/2026 04:10:53 pm"}
+{"level":"info","message":{"method":"POST","path":"/get-mentor-details","responseTime":"3ms","statusCode":200,"timestampIST":"14/2/2026, 9:40:59 pm","userId":null},"timestamp":"14/02/2026 04:10:59 pm"}
+{"level":"info","message":{"method":"POST","path":"/get-mentor-details","responseTime":"16ms","statusCode":200,"timestampIST":"14/2/2026, 9:40:59 pm","userId":null},"timestamp":"14/02/2026 04:10:59 pm"}
+{"level":"info","message":{"method":"GET","path":"/upcoming","responseTime":"51ms","statusCode":200,"timestampIST":"14/2/2026, 9:41:00 pm","userId":"69909e6d701a93042c74c507"},"timestamp":"14/02/2026 04:11:00 pm"}
+{"level":"info","message":{"method":"POST","path":"/my-bookings","responseTime":"12ms","statusCode":200,"timestampIST":"14/2/2026, 9:41:01 pm","userId":null},"timestamp":"14/02/2026 04:11:01 pm"}
+{"level":"info","message":{"method":"GET","path":"/get-mentee-profile/KarrivoKarrivo67413T5MV","responseTime":"4ms","statusCode":200,"timestampIST":"14/2/2026, 9:41:02 pm","userId":null},"timestamp":"14/02/2026 04:11:02 pm"}
+{"level":"info","message":{"method":"GET","path":"/get-tickets/KarrivoKarrivo67413T5MV","responseTime":"10ms","statusCode":200,"timestampIST":"14/2/2026, 9:41:03 pm","userId":null},"timestamp":"14/02/2026 04:11:03 pm"}
+{"level":"error","message":{"method":"GET","path":"/details/KarrivoKarrivo67413T5MV","responseTime":"4ms","statusCode":404,"timestampIST":"14/2/2026, 9:41:05 pm","userId":null},"timestamp":"14/02/2026 04:11:05 pm"}
+{"level":"info","message":{"method":"POST","path":"/get-mentor-details","responseTime":"3ms","statusCode":200,"timestampIST":"14/2/2026, 9:41:06 pm","userId":null},"timestamp":"14/02/2026 04:11:06 pm"}
+{"level":"info","message":{"method":"POST","path":"/get-mentor-details","responseTime":"6ms","statusCode":200,"timestampIST":"14/2/2026, 9:41:06 pm","userId":null},"timestamp":"14/02/2026 04:11:06 pm"}
+{"level":"info","message":{"method":"GET","path":"/applications?undefined","responseTime":"9ms","statusCode":304,"timestampIST":"14/2/2026, 9:41:20 pm","userId":null},"timestamp":"14/02/2026 04:11:20 pm"}
+{"level":"info","message":{"method":"GET","path":"/mentees?limit=10&page=1&search=","responseTime":"35ms","statusCode":200,"timestampIST":"14/2/2026, 9:41:20 pm","userId":null},"timestamp":"14/02/2026 04:11:21 pm"}
+{"level":"info","message":{"method":"PUT","path":"/mentees/69909e6d701a93042c74c507/block","responseTime":"13ms","statusCode":200,"timestampIST":"14/2/2026, 9:41:42 pm","userId":null},"timestamp":"14/02/2026 04:11:42 pm"}
+{"level":"info","message":{"method":"GET","path":"/mentees?limit=10&page=1&search=","responseTime":"14ms","statusCode":200,"timestampIST":"14/2/2026, 9:41:42 pm","userId":null},"timestamp":"14/02/2026 04:11:42 pm"}
+{"level":"info","message":{"method":"PUT","path":"/mentees/69909e6d701a93042c74c507/block","responseTime":"7ms","statusCode":200,"timestampIST":"14/2/2026, 9:41:44 pm","userId":null},"timestamp":"14/02/2026 04:11:44 pm"}
+{"level":"info","message":{"method":"GET","path":"/mentees?limit=10&page=1&search=","responseTime":"14ms","statusCode":200,"timestampIST":"14/2/2026, 9:41:44 pm","userId":null},"timestamp":"14/02/2026 04:11:44 pm"}
+{"level":"info","message":{"method":"PUT","path":"/mentees/69909e6d701a93042c74c507/block","responseTime":"9ms","statusCode":200,"timestampIST":"14/2/2026, 9:41:59 pm","userId":null},"timestamp":"14/02/2026 04:11:59 pm"}
+{"level":"info","message":{"method":"GET","path":"/mentees?limit=10&page=1&search=","responseTime":"14ms","statusCode":200,"timestampIST":"14/2/2026, 9:41:59 pm","userId":null},"timestamp":"14/02/2026 04:11:59 pm"}
+{"level":"info","message":{"method":"PUT","path":"/mentees/69909e6d701a93042c74c507/block","responseTime":"6ms","statusCode":200,"timestampIST":"14/2/2026, 9:42:03 pm","userId":null},"timestamp":"14/02/2026 04:12:03 pm"}
+{"level":"info","message":{"method":"GET","path":"/mentees?limit=10&page=1&search=","responseTime":"12ms","statusCode":200,"timestampIST":"14/2/2026, 9:42:03 pm","userId":null},"timestamp":"14/02/2026 04:12:03 pm"}
+{"level":"info","message":{"method":"POST","path":"/apply","responseTime":"4127ms","statusCode":200,"timestampIST":"14/2/2026, 9:47:01 pm","userId":null},"timestamp":"14/02/2026 04:17:06 pm"}
+{"level":"info","message":{"method":"GET","path":"/applications?limit=10&page=1&search=","responseTime":"8ms","statusCode":200,"timestampIST":"14/2/2026, 9:47:40 pm","userId":null},"timestamp":"14/02/2026 04:17:40 pm"}
+{"level":"info","message":{"method":"PATCH","path":"/applications/69909ffd701a93042c74c53c/approve-reject","responseTime":"5200ms","statusCode":200,"timestampIST":"14/2/2026, 9:48:47 pm","userId":null},"timestamp":"14/02/2026 04:18:52 pm"}
+{"level":"info","message":{"method":"GET","path":"/applications?undefined","responseTime":"11ms","statusCode":200,"timestampIST":"14/2/2026, 9:48:52 pm","userId":null},"timestamp":"14/02/2026 04:18:52 pm"}
+{"level":"info","message":{"method":"GET","path":"/applications?limit=10&page=1&search=","responseTime":"18ms","statusCode":200,"timestampIST":"14/2/2026, 9:48:52 pm","userId":null},"timestamp":"14/02/2026 04:18:52 pm"}
+{"level":"info","message":{"method":"POST","path":"/login","responseTime":"260ms","statusCode":200,"timestampIST":"14/2/2026, 9:50:06 pm","userId":null},"timestamp":"14/02/2026 04:20:06 pm"}
+{"level":"info","message":{"method":"GET","path":"/user/6990a067701a93042c74c543","responseTime":"16ms","statusCode":200,"timestampIST":"14/2/2026, 9:50:06 pm","userId":null},"timestamp":"14/02/2026 04:20:07 pm"}
+{"level":"info","message":{"method":"GET","path":"/mentor/69909ffd701a93042c74c53c","responseTime":"14ms","statusCode":200,"timestampIST":"14/2/2026, 9:50:19 pm","userId":null},"timestamp":"14/02/2026 04:20:19 pm"}
+{"level":"info","message":{"method":"GET","path":"/get-tickets/69909ffd701a93042c74c53c","responseTime":"12ms","statusCode":200,"timestampIST":"14/2/2026, 9:50:38 pm","userId":null},"timestamp":"14/02/2026 04:20:38 pm"}
+{"level":"info","message":{"method":"POST","path":"/create-ticket","responseTime":"15ms","statusCode":201,"timestampIST":"14/2/2026, 9:51:20 pm","userId":null},"timestamp":"14/02/2026 04:21:20 pm"}
+{"level":"info","message":{"method":"GET","path":"/get-tickets/69909ffd701a93042c74c53c","responseTime":"11ms","statusCode":200,"timestampIST":"14/2/2026, 9:51:20 pm","userId":null},"timestamp":"14/02/2026 04:21:20 pm"}
+{"level":"info","message":{"method":"GET","path":"/get-all-tickets","responseTime":"9ms","statusCode":200,"timestampIST":"14/2/2026, 9:51:35 pm","userId":null},"timestamp":"14/02/2026 04:21:35 pm"}
+{"level":"info","message":{"method":"POST","path":"/respond/6990a100701a93042c74c54e","responseTime":"6ms","statusCode":200,"timestampIST":"14/2/2026, 9:52:14 pm","userId":null},"timestamp":"14/02/2026 04:22:14 pm"}
+{"level":"info","message":{"method":"GET","path":"/get-all-tickets","responseTime":"8ms","statusCode":200,"timestampIST":"14/2/2026, 9:52:14 pm","userId":null},"timestamp":"14/02/2026 04:22:14 pm"}
+{"level":"info","message":{"method":"PATCH","path":"/update-ticket/6990a100701a93042c74c54e","responseTime":"5ms","statusCode":200,"timestampIST":"14/2/2026, 9:52:21 pm","userId":null},"timestamp":"14/02/2026 04:22:21 pm"}
+{"level":"info","message":{"method":"GET","path":"/get-all-tickets","responseTime":"4ms","statusCode":200,"timestampIST":"14/2/2026, 9:52:21 pm","userId":null},"timestamp":"14/02/2026 04:22:21 pm"}
+{"level":"info","message":{"method":"GET","path":"/get-tickets/69909ffd701a93042c74c53c","responseTime":"6ms","statusCode":200,"timestampIST":"14/2/2026, 9:52:25 pm","userId":null},"timestamp":"14/02/2026 04:22:25 pm"}
+{"level":"info","message":{"method":"GET","path":"/get-tickets/69909ffd701a93042c74c53c","responseTime":"13ms","statusCode":304,"timestampIST":"14/2/2026, 9:52:50 pm","userId":null},"timestamp":"14/02/2026 04:22:50 pm"}
+{"level":"info","message":{"method":"GET","path":"/topmentors?limit=4","responseTime":"5ms","statusCode":200,"timestampIST":"14/2/2026, 9:53:59 pm","userId":null},"timestamp":"14/02/2026 04:23:59 pm"}
+{"level":"info","message":{"method":"POST","path":"/login","responseTime":"260ms","statusCode":200,"timestampIST":"14/2/2026, 10:00:25 pm","userId":null},"timestamp":"14/02/2026 04:30:25 pm"}
+{"level":"info","message":{"method":"GET","path":"/user/6990a067701a93042c74c543","responseTime":"5ms","statusCode":200,"timestampIST":"14/2/2026, 10:00:25 pm","userId":null},"timestamp":"14/02/2026 04:30:25 pm"}
+{"level":"error","message":{"method":"POST","path":"/get-mentor-details","responseTime":"1ms","statusCode":400,"timestampIST":"14/2/2026, 10:00:30 pm","userId":null},"timestamp":"14/02/2026 04:30:30 pm"}
+{"level":"error","message":{"method":"POST","path":"/get-mentor-details","responseTime":"1ms","statusCode":400,"timestampIST":"14/2/2026, 10:00:32 pm","userId":null},"timestamp":"14/02/2026 04:30:32 pm"}
+{"level":"error","message":{"method":"POST","path":"/get-mentor-details","responseTime":"3ms","statusCode":400,"timestampIST":"14/2/2026, 10:00:36 pm","userId":null},"timestamp":"14/02/2026 04:30:36 pm"}
+{"level":"info","message":"Mongo DB connected successfully","timestamp":"14/02/2026 04:31:25 pm"}
+{"level":"error","message":{"method":"POST","path":"/get-mentor-details","responseTime":"1ms","statusCode":400,"timestampIST":"14/2/2026, 10:01:30 pm","userId":null},"timestamp":"14/02/2026 04:31:30 pm"}
+{"level":"info","message":{"method":"GET","path":"/user/6990a067701a93042c74c543","responseTime":"8ms","statusCode":304,"timestampIST":"14/2/2026, 10:01:31 pm","userId":null},"timestamp":"14/02/2026 04:31:31 pm"}
+{"level":"info","message":"Mongo DB connected successfully","timestamp":"14/02/2026 04:31:44 pm"}
+{"level":"error","message":{"method":"POST","path":"/get-mentor-details","responseTime":"10ms","statusCode":400,"timestampIST":"14/2/2026, 10:01:44 pm","userId":null},"timestamp":"14/02/2026 04:31:44 pm"}
+{"level":"info","message":{"method":"GET","path":"/user/6990a067701a93042c74c543","responseTime":"27ms","statusCode":304,"timestampIST":"14/2/2026, 10:06:50 pm","userId":null},"timestamp":"14/02/2026 04:36:50 pm"}
+{"level":"info","message":{"method":"GET","path":"/get-tickets/69909ffd701a93042c74c53c","responseTime":"13ms","statusCode":304,"timestampIST":"14/2/2026, 10:06:53 pm","userId":null},"timestamp":"14/02/2026 04:36:53 pm"}
+{"level":"info","message":{"method":"GET","path":"/topmentors?limit=4","responseTime":"7ms","statusCode":304,"timestampIST":"14/2/2026, 10:07:05 pm","userId":null},"timestamp":"14/02/2026 04:37:05 pm"}
+{"level":"info","message":{"method":"POST","path":"/login","responseTime":"278ms","statusCode":200,"timestampIST":"14/2/2026, 10:07:25 pm","userId":null},"timestamp":"14/02/2026 04:37:25 pm"}
+{"level":"error","message":{"method":"GET","path":"/details/KarrivoKarrivo67413T5MV","responseTime":"3ms","statusCode":404,"timestampIST":"14/2/2026, 10:07:25 pm","userId":null},"timestamp":"14/02/2026 04:37:25 pm"}
+{"level":"info","message":{"method":"POST","path":"/get-mentor-details","responseTime":"4ms","statusCode":200,"timestampIST":"14/2/2026, 10:07:50 pm","userId":null},"timestamp":"14/02/2026 04:37:50 pm"}
+{"level":"info","message":{"method":"GET","path":"/upcoming","responseTime":"9ms","statusCode":304,"timestampIST":"14/2/2026, 10:07:51 pm","userId":"69909e6d701a93042c74c507"},"timestamp":"14/02/2026 04:37:51 pm"}
+{"level":"info","message":{"method":"POST","path":"/get-mentor-details","responseTime":"11ms","statusCode":200,"timestampIST":"14/2/2026, 10:07:52 pm","userId":null},"timestamp":"14/02/2026 04:37:52 pm"}
+{"level":"info","message":"Mongo DB connected successfully","timestamp":"14/02/2026 04:37:54 pm"}
+{"level":"info","message":{"method":"POST","path":"/get-mentor-details","responseTime":"3ms","statusCode":200,"timestampIST":"14/2/2026, 10:07:54 pm","userId":null},"timestamp":"14/02/2026 04:37:54 pm"}
+{"level":"info","message":"Mongo DB connected successfully","timestamp":"14/02/2026 04:37:56 pm"}
+{"level":"info","message":{"method":"POST","path":"/get-mentor-details","responseTime":"4ms","statusCode":200,"timestampIST":"14/2/2026, 10:07:56 pm","userId":null},"timestamp":"14/02/2026 04:37:56 pm"}
+{"level":"info","message":{"method":"GET","path":"/upcoming","responseTime":"12ms","statusCode":304,"timestampIST":"14/2/2026, 10:09:15 pm","userId":"69909e6d701a93042c74c507"},"timestamp":"14/02/2026 04:39:15 pm"}
+{"level":"info","message":{"method":"GET","path":"/topmentors?limit=4","responseTime":"7ms","statusCode":304,"timestampIST":"14/2/2026, 10:09:22 pm","userId":null},"timestamp":"14/02/2026 04:39:22 pm"}
+{"level":"info","message":{"method":"GET","path":"/search?q=rohan","responseTime":"18ms","statusCode":200,"timestampIST":"14/2/2026, 10:09:35 pm","userId":null},"timestamp":"14/02/2026 04:39:36 pm"}
+{"level":"info","message":{"method":"GET","path":"/search?q=rohan","responseTime":"7ms","statusCode":304,"timestampIST":"14/2/2026, 10:09:53 pm","userId":null},"timestamp":"14/02/2026 04:39:53 pm"}
+{"level":"info","message":{"method":"GET","path":"/topmentors?limit=4","responseTime":"7ms","statusCode":304,"timestampIST":"14/2/2026, 10:09:55 pm","userId":null},"timestamp":"14/02/2026 04:39:55 pm"}
+{"level":"info","message":{"method":"GET","path":"/search?q=python","responseTime":"11ms","statusCode":200,"timestampIST":"14/2/2026, 10:10:00 pm","userId":null},"timestamp":"14/02/2026 04:40:00 pm"}
+{"level":"info","message":{"method":"GET","path":"/search?q=python","responseTime":"10ms","statusCode":304,"timestampIST":"14/2/2026, 10:10:17 pm","userId":null},"timestamp":"14/02/2026 04:40:17 pm"}
+{"level":"info","message":{"method":"GET","path":"/search?q=","responseTime":"2ms","statusCode":200,"timestampIST":"14/2/2026, 10:10:19 pm","userId":null},"timestamp":"14/02/2026 04:40:19 pm"}
+{"level":"info","message":{"method":"GET","path":"/search?q=dot+net","responseTime":"9ms","statusCode":200,"timestampIST":"14/2/2026, 10:10:23 pm","userId":null},"timestamp":"14/02/2026 04:40:23 pm"}
+{"level":"info","message":{"method":"GET","path":"/search?q=java+scripts","responseTime":"4ms","statusCode":200,"timestampIST":"14/2/2026, 10:10:31 pm","userId":null},"timestamp":"14/02/2026 04:40:31 pm"}
+{"level":"info","message":{"method":"GET","path":"/search?q=java+script","responseTime":"5ms","statusCode":200,"timestampIST":"14/2/2026, 10:10:33 pm","userId":null},"timestamp":"14/02/2026 04:40:33 pm"}
+{"level":"info","message":{"method":"GET","path":"/search?q=javascript","responseTime":"7ms","statusCode":200,"timestampIST":"14/2/2026, 10:10:40 pm","userId":null},"timestamp":"14/02/2026 04:40:40 pm"}
+{"level":"info","message":{"method":"GET","path":"/search?q=startup+mentor","responseTime":"4ms","statusCode":200,"timestampIST":"14/2/2026, 10:11:11 pm","userId":null},"timestamp":"14/02/2026 04:41:11 pm"}
+{"level":"info","message":{"method":"GET","path":"/topmentors?limit=4","responseTime":"4ms","statusCode":304,"timestampIST":"14/2/2026, 10:11:14 pm","userId":null},"timestamp":"14/02/2026 04:41:14 pm"}
+{"level":"info","message":{"method":"POST","path":"/login","responseTime":"261ms","statusCode":200,"timestampIST":"14/2/2026, 10:11:36 pm","userId":null},"timestamp":"14/02/2026 04:41:36 pm"}
+{"level":"info","message":{"method":"GET","path":"/view/69909ffd701a93042c74c53c","responseTime":"7ms","statusCode":200,"timestampIST":"14/2/2026, 10:11:36 pm","userId":null},"timestamp":"14/02/2026 04:41:36 pm"}
+{"level":"info","message":{"method":"POST","path":"/check-free-session","responseTime":"5ms","statusCode":200,"timestampIST":"14/2/2026, 10:11:36 pm","userId":null},"timestamp":"14/02/2026 04:41:36 pm"}
+{"level":"info","message":{"method":"GET","path":"/topmentors?limit=4","responseTime":"6ms","statusCode":304,"timestampIST":"14/2/2026, 10:13:50 pm","userId":null},"timestamp":"14/02/2026 04:43:50 pm"}
+{"level":"info","message":{"method":"GET","path":"/topmentors?limit=4","responseTime":"28ms","statusCode":200,"timestampIST":"14/2/2026, 10:14:33 pm","userId":null},"timestamp":"14/02/2026 04:44:33 pm"}

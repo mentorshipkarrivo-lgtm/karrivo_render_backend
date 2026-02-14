@@ -1,0 +1,14 @@
+{"level":"error","message":{"method":"GET","path":"/upcoming","responseTime":"277ms","statusCode":408,"timestampIST":"29/1/2026, 3:41:11 pm","userId":null},"timestamp":"29/01/2026 03:41:12 pm"}
+{"level":"error","message":{"method":"GET","path":"/upcoming","responseTime":"14ms","statusCode":408,"timestampIST":"29/1/2026, 3:41:12 pm","userId":null},"timestamp":"29/01/2026 03:41:12 pm"}
+{"level":"error","message":{"method":"GET","path":"/upcoming","responseTime":"14ms","statusCode":408,"timestampIST":"29/1/2026, 3:41:12 pm","userId":null},"timestamp":"29/01/2026 03:41:12 pm"}
+{"level":"error","message":{"method":"POST","path":"/login","responseTime":"300ms","statusCode":400,"timestampIST":"29/1/2026, 4:08:15 pm","userId":null},"timestamp":"29/01/2026 04:08:15 pm"}
+{"level":"error","message":{"method":"POST","path":"/login","responseTime":"328ms","statusCode":400,"timestampIST":"29/1/2026, 4:08:21 pm","userId":null},"timestamp":"29/01/2026 04:08:21 pm"}
+{"level":"error","message":{"method":"POST","path":"/login","responseTime":"273ms","statusCode":400,"timestampIST":"29/1/2026, 4:08:30 pm","userId":null},"timestamp":"29/01/2026 04:08:30 pm"}
+{"level":"error","message":{"method":"POST","path":"/login","responseTime":"301ms","statusCode":400,"timestampIST":"29/1/2026, 4:08:37 pm","userId":null},"timestamp":"29/01/2026 04:08:37 pm"}
+{"level":"error","message":{"method":"POST","path":"/api/mentee/dashboard/upload-profile-photo","responseTime":"13ms","statusCode":404,"timestampIST":"29/1/2026, 4:40:20 pm","userId":null},"timestamp":"29/01/2026 04:40:20 pm"}
+{"level":"error","message":{"method":"GET","path":"/upcoming","responseTime":"17ms","statusCode":408,"timestampIST":"29/1/2026, 9:59:36 pm","userId":null},"timestamp":"29/01/2026 09:59:36 pm"}
+{"level":"error","message":{"method":"GET","path":"/upcoming","responseTime":"6ms","statusCode":408,"timestampIST":"29/1/2026, 9:59:36 pm","userId":null},"timestamp":"29/01/2026 09:59:36 pm"}
+{"level":"error","message":{"method":"GET","path":"/upcoming","responseTime":"5ms","statusCode":408,"timestampIST":"29/1/2026, 9:59:36 pm","userId":null},"timestamp":"29/01/2026 09:59:36 pm"}
+{"level":"error","message":{"method":"GET","path":"/upcoming","responseTime":"78ms","statusCode":408,"timestampIST":"29/1/2026, 10:37:48 pm","userId":null},"timestamp":"29/01/2026 10:37:48 pm"}
+{"level":"error","message":{"method":"GET","path":"/upcoming","responseTime":"6ms","statusCode":408,"timestampIST":"29/1/2026, 10:37:48 pm","userId":null},"timestamp":"29/01/2026 10:37:48 pm"}
+{"level":"error","message":{"method":"GET","path":"/upcoming","responseTime":"10ms","statusCode":408,"timestampIST":"29/1/2026, 10:37:48 pm","userId":null},"timestamp":"29/01/2026 10:37:48 pm"}

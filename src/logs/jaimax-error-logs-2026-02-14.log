@@ -1,0 +1,16 @@
+{"level":"error","message":{"method":"GET","path":"/details/KarrivoKarrivo530RAGHIL","responseTime":"46ms","statusCode":404,"timestampIST":"14/2/2026, 12:49:14 pm","userId":null},"timestamp":"14/02/2026 07:19:14 am"}
+{"level":"error","message":{"method":"POST","path":"/login","responseTime":"66ms","statusCode":400,"timestampIST":"14/2/2026, 1:52:27 pm","userId":null},"timestamp":"14/02/2026 08:22:27 am"}
+{"level":"error","message":{"method":"GET","path":"/details/KarrivoKarrivo530RAGHIL","responseTime":"18ms","statusCode":404,"timestampIST":"14/2/2026, 3:19:49 pm","userId":null},"timestamp":"14/02/2026 09:49:49 am"}
+{"level":"error","message":{"method":"GET","path":"/details/KarrivoKarrivo653GYIXR7","responseTime":"6ms","statusCode":404,"timestampIST":"14/2/2026, 9:32:18 pm","userId":null},"timestamp":"14/02/2026 04:02:18 pm"}
+{"level":"error","message":{"method":"GET","path":"/details/KarrivoKarrivo653GYIXR7","responseTime":"4ms","statusCode":404,"timestampIST":"14/2/2026, 9:32:48 pm","userId":null},"timestamp":"14/02/2026 04:02:48 pm"}
+{"level":"error","message":{"method":"GET","path":"/details/KarrivoKarrivo653GYIXR7","responseTime":"2ms","statusCode":404,"timestampIST":"14/2/2026, 9:33:02 pm","userId":null},"timestamp":"14/02/2026 04:03:02 pm"}
+{"level":"error","message":{"method":"GET","path":"/details/KarrivoKarrivo653GYIXR7","responseTime":"3ms","statusCode":404,"timestampIST":"14/2/2026, 9:34:44 pm","userId":null},"timestamp":"14/02/2026 04:04:44 pm"}
+{"level":"error","message":{"method":"GET","path":"/details/KarrivoKarrivo653GYIXR7","responseTime":"4ms","statusCode":404,"timestampIST":"14/2/2026, 9:36:11 pm","userId":null},"timestamp":"14/02/2026 04:06:11 pm"}
+{"level":"error","message":{"method":"GET","path":"/details/KarrivoKarrivo67413T5MV","responseTime":"2ms","statusCode":404,"timestampIST":"14/2/2026, 9:40:53 pm","userId":null},"timestamp":"14/02/2026 04:10:53 pm"}
+{"level":"error","message":{"method":"GET","path":"/details/KarrivoKarrivo67413T5MV","responseTime":"4ms","statusCode":404,"timestampIST":"14/2/2026, 9:41:05 pm","userId":null},"timestamp":"14/02/2026 04:11:05 pm"}
+{"level":"error","message":{"method":"POST","path":"/get-mentor-details","responseTime":"1ms","statusCode":400,"timestampIST":"14/2/2026, 10:00:30 pm","userId":null},"timestamp":"14/02/2026 04:30:30 pm"}
+{"level":"error","message":{"method":"POST","path":"/get-mentor-details","responseTime":"1ms","statusCode":400,"timestampIST":"14/2/2026, 10:00:32 pm","userId":null},"timestamp":"14/02/2026 04:30:32 pm"}
+{"level":"error","message":{"method":"POST","path":"/get-mentor-details","responseTime":"3ms","statusCode":400,"timestampIST":"14/2/2026, 10:00:36 pm","userId":null},"timestamp":"14/02/2026 04:30:36 pm"}
+{"level":"error","message":{"method":"POST","path":"/get-mentor-details","responseTime":"1ms","statusCode":400,"timestampIST":"14/2/2026, 10:01:30 pm","userId":null},"timestamp":"14/02/2026 04:31:30 pm"}
+{"level":"error","message":{"method":"POST","path":"/get-mentor-details","responseTime":"10ms","statusCode":400,"timestampIST":"14/2/2026, 10:01:44 pm","userId":null},"timestamp":"14/02/2026 04:31:44 pm"}
+{"level":"error","message":{"method":"GET","path":"/details/KarrivoKarrivo67413T5MV","responseTime":"3ms","statusCode":404,"timestampIST":"14/2/2026, 10:07:25 pm","userId":null},"timestamp":"14/02/2026 04:37:25 pm"}
